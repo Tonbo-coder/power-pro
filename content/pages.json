@@ -1,0 +1,86 @@
+[
+  {
+    "path": "/",
+    "key": "home",
+    "title": "Moderní energetická řešení pro firmy i domácnosti - Power-pro.cz",
+    "description": "Navrhujeme a realizujeme moderní energetická řešení – bateriová úložiště, obnovitelné zdroje a efektivní správa energie pro firmy i domácnosti.",
+    "pageClass": "page-content-root  page-2 "
+  },
+  {
+    "path": "/vetrne-elektrarny",
+    "key": "vetrne-elektrarny",
+    "title": "Větrné elektrárny | Výroba energie z větru - Power-pro.cz",
+    "description": "Větrné elektrárny pro firmy i investory. Využijte energii větru, snižte náklady na elektřinu a zvyšte energetickou soběstačnost.",
+    "pageClass": "page-content-root  page-1 "
+  },
+  {
+    "path": "/vetrne-elektrarny/realizace-mereni-vetru",
+    "key": "vetrne-elektrarny__realizace-mereni-vetru",
+    "title": "Jak fungují větrné elektrárny | Princip výroby energie - Power-pro.cz",
+    "description": "Zjistěte, jak fungují větrné elektrárny a jak se energie větru mění na elektřinu. Jednoduché vysvětlení principu a fungování turbín.",
+    "pageClass": "page-content-root  page-12 "
+  },
+  {
+    "path": "/vetrne-elektrarny/o-vetrnych-elektrarnach",
+    "key": "vetrne-elektrarny__o-vetrnych-elektrarnach",
+    "title": "Větrné elektrárny – fakta a zajímavosti - Power-pro.cz",
+    "description": "Přehled klíčových faktů o větrných elektrárnách. Výhody, nevýhody, výkon i dopady na životní prostředí.",
+    "pageClass": "page-content-root  page-11 "
+  },
+  {
+    "path": "/zeleny-vodik",
+    "key": "zeleny-vodik",
+    "title": "Zelený vodík | Budoucnost čisté energie - Power-pro.cz",
+    "description": "Zelený vodík jako klíč k udržitelné energetice. Vysvětlujeme jeho výrobu, využití a potenciál pro firmy i průmysl.",
+    "pageClass": "page-content-root  page-15 "
+  },
+  {
+    "path": "/zeleny-vodik/druhy-zeleneho-vodiku",
+    "key": "zeleny-vodik__druhy-zeleneho-vodiku",
+    "title": "Druhy vodíku | Zelený, modrý a šedý vodík - Power-pro.cz",
+    "description": "Přehled druhů vodíku a jejich rozdílů. Zjistěte, co znamená zelený, modrý a šedý vodík a jaký mají dopad na životní prostředí.",
+    "pageClass": "page-content-root  page-3 "
+  },
+  {
+    "path": "/zeleny-vodik/co-umime",
+    "key": "zeleny-vodik__co-umime",
+    "title": "Řešení se zeleným vodíkem | Technologie a realizace - Power-pro.cz",
+    "description": "Navrhujeme a realizujeme řešení se zeleným vodíkem. Od návrhu po implementaci pro firmy a energetické projekty.",
+    "pageClass": "page-content-root  page-16 "
+  },
+  {
+    "path": "/bateriove-uloziste",
+    "key": "bateriove-uloziste",
+    "title": "Bateriová úložiště | Efektivní ukládání energie - Power-pro.cz",
+    "description": "Navrhujeme bateriová úložiště pro firmy i domácnosti. Ukládejte energii efektivně a využívejte ji ve správný čas.",
+    "pageClass": "page-content-root  page-4 "
+  },
+  {
+    "path": "/aktuality",
+    "key": "aktuality",
+    "title": "Aktuality | Novinky z oblasti energetiky - Power-pro.cz",
+    "description": "Sledujte aktuální novinky z oblasti energetiky, obnovitelných zdrojů a moderních technologií. Přehled trendů, inovací a projektů.",
+    "pageClass": "page-content-root  page-5 "
+  },
+  {
+    "path": "/proc-s-nami",
+    "key": "proc-s-nami",
+    "title": "Proč s námi | Power Pro – spolehlivý partner v energetice - Power-pro.cz",
+    "description": "Proč si vybrat Power Pro? Nabízíme odborné know-how, individuální přístup a moderní energetická řešení na míru.",
+    "pageClass": "page-content-root  page-6 "
+  },
+  {
+    "path": "/kontakt",
+    "key": "kontakt",
+    "title": "Kontakt - Power-pro.cz",
+    "description": "Kontaktujte nás a získejte nezávaznou konzultaci. Navrhneme vám ideální energetické řešení.",
+    "pageClass": "page-content-root  page-7 "
+  },
+  {
+    "path": "/e-mail-podekovani",
+    "key": "e-mail-podekovani",
+    "title": "E-mail poděkování - Power-pro.cz",
+    "description": "",
+    "pageClass": "page-content-root  page-17 "
+  }
+]

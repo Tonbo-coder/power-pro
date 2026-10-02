@@ -1,0 +1,244 @@
+{
+  "body": {
+    "color": "rgb(88, 98, 109)",
+    "font": "16px / 27.2px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "elements": [
+    {
+      "box": {
+        "height": 50,
+        "width": 304,
+        "x": 0,
+        "y": 0
+      },
+      "cls": "",
+      "color": "rgb(88, 98, 109)",
+      "font": "16px / 27.2px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "HEADER",
+      "text": "ÚvodVětrné elektrárnyRealizace měření větruO větrných elektrárnáchZele"
+    },
+    {
+      "box": {
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "cls": "sp-megamenu-parent menu-animation-fade-up d-none d-lg-block",
+      "color": "rgb(88, 98, 109)",
+      "font": "16px / 27.2px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "UL",
+      "text": "ÚvodVětrné elektrárnyRealizace měření větruO větrných elektrárnáchZele"
+    },
+    {
+      "box": {
+        "height": 313,
+        "width": 304,
+        "x": 0,
+        "y": 150
+      },
+      "cls": "sppb-row-container",
+      "color": "rgb(88, 98, 109)",
+      "font": "16px / 27.2px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "DIV",
+      "text": "Projektový management v obnovitelné energiiJak to funguje?Nezávazná ko"
+    },
+    {
+      "box": {
+        "height": 200,
+        "width": 274,
+        "x": 15,
+        "y": 150
+      },
+      "cls": "sppb-addon-title",
+      "color": "rgb(255, 255, 255)",
+      "font": "700 40px / 50px Hind",
+      "tag": "H1",
+      "text": "Projektový management v obnovitelné energii"
+    },
+    {
+      "box": {
+        "height": 1467.0625,
+        "width": 304,
+        "x": 0,
+        "y": 713
+      },
+      "cls": "sppb-row-container",
+      "color": "rgb(152, 152, 152)",
+      "font": "16px / 27.2px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "DIV",
+      "text": "Naše zaměřeníKomplexní řešení pro energetickou soběstačnost a udržitel"
+    },
+    {
+      "box": {
+        "height": 37.5,
+        "width": 187.78125,
+        "x": 58.109375,
+        "y": 733
+      },
+      "cls": "sppb-addon-title",
+      "color": "rgb(66, 75, 84)",
+      "font": "600 30px / 37.5px Hind",
+      "tag": "H2",
+      "text": "Naše zaměření"
+    },
+    {
+      "box": {
+        "height": 30,
+        "width": 207.921875,
+        "x": 48.03125,
+        "y": 1065.6875
+      },
+      "cls": "sppb-addon-title sppb-feature-box-title",
+      "color": "rgb(66, 75, 84)",
+      "font": "700 24px / 30px Hind",
+      "tag": "H3",
+      "text": "Větrné elektrárny"
+    },
+    {
+      "box": {
+        "height": 30,
+        "width": 152.71875,
+        "x": 75.640625,
+        "y": 1484.875
+      },
+      "cls": "sppb-addon-title sppb-feature-box-title",
+      "color": "rgb(66, 75, 84)",
+      "font": "700 24px / 30px Hind",
+      "tag": "H3",
+      "text": "Zelený vodík"
+    },
+    {
+      "box": {
+        "height": 60,
+        "width": 208,
+        "x": 48,
+        "y": 1877.0625
+      },
+      "cls": "sppb-addon-title sppb-feature-box-title",
+      "color": "rgb(66, 75, 84)",
+      "font": "700 24px / 30px Hind",
+      "tag": "H3",
+      "text": "Bateriová úložiště"
+    },
+    {
+      "box": {
+        "height": 569.5,
+        "width": 304,
+        "x": 0,
+        "y": 2180.0625
+      },
+      "cls": "sppb-row-container",
+      "color": "rgb(88, 98, 109)",
+      "font": "16px / 27.2px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "DIV",
+      "text": "Jedeme v tom spolu!Naše společnost Power Pro se zabývá dekarbonizačním"
+    },
+    {
+      "box": {
+        "height": 37.5,
+        "width": 265.78125,
+        "x": 15,
+        "y": 2250.0625
+      },
+      "cls": "sppb-addon-title",
+      "color": "rgb(66, 75, 84)",
+      "font": "600 30px / 37.5px Hind",
+      "tag": "H2",
+      "text": "Jedeme v tom spolu!"
+    },
+    {
+      "box": {
+        "height": 1594.5,
+        "width": 304,
+        "x": 0,
+        "y": 2789.5625
+      },
+      "cls": "sppb-row-container",
+      "color": "rgb(88, 98, 109)",
+      "font": "16px / 27.2px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "DIV",
+      "text": "Analýza a studie\n    Zpracujeme studii proveditelnosti nebo energetick"
+    },
+    {
+      "box": {
+        "height": 181,
+        "width": 304,
+        "x": 0,
+        "y": 4574.25
+      },
+      "cls": "sppb-row-container",
+      "color": "rgb(152, 152, 152)",
+      "font": "16px / 27.2px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "DIV",
+      "text": "Chcete vědět více?Máte nápad, či dotaz který byste s námi rádi probral"
+    },
+    {
+      "box": {
+        "height": 27.5,
+        "width": 180.484375,
+        "x": 61.75,
+        "y": 4574.25
+      },
+      "cls": "sppb-addon-title",
+      "color": "rgb(66, 75, 84)",
+      "font": "600 22px / 27.5px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "H3",
+      "text": "Chcete vědět více?"
+    },
+    {
+      "box": {
+        "height": 852.0625,
+        "width": 274,
+        "x": 15,
+        "y": 4936.25
+      },
+      "cls": "sppb-row-container",
+      "color": "rgb(255, 255, 255)",
+      "font": "14px / 23.8px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "DIV",
+      "text": "Kontakt\n  \n    \n      \n      Červený Kříž 286, 586 01 Jihlava\n    \n   "
+    },
+    {
+      "box": {
+        "height": 22.5,
+        "width": 244,
+        "x": 30,
+        "y": 5065.5
+      },
+      "cls": "footer-title",
+      "color": "rgb(255, 255, 255)",
+      "font": "700 18px / 22.5px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "H3",
+      "text": "Kontakt"
+    },
+    {
+      "box": {
+        "height": 22.5,
+        "width": 244,
+        "x": 30,
+        "y": 5245.171875
+      },
+      "cls": "footer-title",
+      "color": "rgb(255, 255, 255)",
+      "font": "700 18px / 22.5px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "H3",
+      "text": "Rychlé odkazy"
+    },
+    {
+      "box": {
+        "height": 22.5,
+        "width": 244,
+        "x": 30,
+        "y": 5424.84375
+      },
+      "cls": "footer-title",
+      "color": "rgb(255, 255, 255)",
+      "font": "700 18px / 22.5px system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "tag": "H3",
+      "text": "O nás"
+    }
+  ],
+  "height": 1004,
+  "width": 319
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Power Pro",
+  "id": "pro",
+  "url": "https://power-pro.cz",
+  "port": 3000,
+  "logo": "/images/logo-web-powerpro.png",
+  "logoHeight": 90,
+  "email": "info@power-pro.cz",
+  "phone": "+420 702 204 789",
+  "navigation": [
+    {
+      "label": "Úvod",
+      "href": "/"
+    },
+    {
+      "label": "Větrné elektrárny",
+      "href": "/vetrne-elektrarny",
+      "children": [
+        {
+          "label": "Realizace měření větru",
+          "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+        },
+        {
+          "label": "O větrných elektrárnách",
+          "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+        }
+      ]
+    },
+    {
+      "label": "Zelený vodík",
+      "href": "/zeleny-vodik",
+      "children": [
+        {
+          "label": "Druhy zeleného vodíku",
+          "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+        },
+        {
+          "label": "Co umíme",
+          "href": "/zeleny-vodik/co-umime"
+        }
+      ]
+    },
+    {
+      "label": "Bateriové úložiště",
+      "href": "/bateriove-uloziste"
+    },
+    {
+      "label": "Aktuality",
+      "href": "/aktuality"
+    },
+    {
+      "label": "Proč s námi",
+      "href": "/proc-s-nami"
+    },
+    {
+      "label": "Kontakt",
+      "href": "/kontakt"
+    }
+  ]
+}

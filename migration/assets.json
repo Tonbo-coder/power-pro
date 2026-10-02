@@ -1,0 +1,502 @@
+[
+  {
+    "url": "https://power-pro.cz/images/cropped-tk-eko_black-32x32.png",
+    "local": "/images/cropped-tk-eko_black-32x32.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\images\\cropped-tk-eko_black-32x32.png"
+  },
+  {
+    "url": "https://power-pro.cz/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+    "local": "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\vendor\\joomla-custom-elements\\css\\joomla-alert.min.css"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+    "local": "/components/com_sppagebuilder/assets/css/animate.min.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\css\\animate.min.css"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+    "local": "/components/com_sppagebuilder/assets/css/sppagebuilder.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\css\\sppagebuilder.css"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+    "local": "/components/com_sppagebuilder/assets/css/dynamic-content.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\css\\dynamic-content.css"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\stylesheet.css"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=%22Raleway%22:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "local": "/external/fonts.googleapis.com/css-P2ZhbWlseT0lMjJSYWxld2F5JTIyOjEw.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\external\\fonts.googleapis.com\\css-P2ZhbWlseT0lMjJSYWxld2F5JTIyOjEw.css"
+  },
+  {
+    "url": "https://power-pro.cz/templates/shaper_helixultimate/css/bootstrap.min.css",
+    "local": "/templates/shaper_helixultimate/css/bootstrap.min.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\templates\\shaper_helixultimate\\css\\bootstrap.min.css"
+  },
+  {
+    "url": "https://power-pro.cz/plugins/system/helixultimate/assets/css/chosen.css",
+    "local": "/plugins/system/helixultimate/assets/css/chosen.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\plugins\\system\\helixultimate\\assets\\css\\chosen.css"
+  },
+  {
+    "url": "https://power-pro.cz/plugins/system/helixultimate/assets/css/system-j4.min.css",
+    "local": "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\plugins\\system\\helixultimate\\assets\\css\\system-j4.min.css"
+  },
+  {
+    "url": "https://power-pro.cz/media/system/css/joomla-fontawesome.min.css?eee376",
+    "local": "/media/system/css/joomla-fontawesome.min.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\system\\css\\joomla-fontawesome.min.css"
+  },
+  {
+    "url": "https://power-pro.cz/templates/shaper_helixultimate/css/template.css",
+    "local": "/templates/shaper_helixultimate/css/template.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\templates\\shaper_helixultimate\\css\\template.css"
+  },
+  {
+    "url": "https://power-pro.cz/templates/shaper_helixultimate/css/presets/preset2.css",
+    "local": "/templates/shaper_helixultimate/css/presets/preset2.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\templates\\shaper_helixultimate\\css\\presets\\preset2.css"
+  },
+  {
+    "url": "https://power-pro.cz/templates/shaper_helixultimate/css/custom.css",
+    "local": "/templates/shaper_helixultimate/css/custom.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\templates\\shaper_helixultimate\\css\\custom.css"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+    "local": "/components/com_sppagebuilder/assets/css/color-switcher.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\css\\color-switcher.css"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-40014bb3c873.css",
+    "local": "/media/sppb-css/page-40014bb3c873.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-40014bb3c873.css"
+  },
+  {
+    "url": "https://power-pro.cz/images/logo-web-powerpro.png",
+    "local": "/images/logo-web-powerpro.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\images\\logo-web-powerpro.png"
+  },
+  {
+    "url": "https://power-pro.cz/",
+    "local": "/",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\"
+  },
+  {
+    "url": "https://power-pro.cz/media/videos/2025/11/19/857010-hd_1920_1080_30fps.mp4",
+    "local": "/media/videos/2025/11/19/857010-hd_1920_1080_30fps.mp4",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\videos\\2025\\11\\19\\857010-hd_1920_1080_30fps.mp4"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/vetrna_elekrarna_grey1-2.png",
+    "local": "/files/img/vetrna_elekrarna_grey1-2.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\vetrna_elekrarna_grey1-2.png"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/zeleny_vodik_grey1.png",
+    "local": "/files/img/zeleny_vodik_grey1.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\zeleny_vodik_grey1.png"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/bateriove_uloziste_grey.png",
+    "local": "/files/img/bateriove_uloziste_grey.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\bateriove_uloziste_grey.png"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/pruhledne-logo-powerpro.png",
+    "local": "/files/img/pruhledne-logo-powerpro.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\pruhledne-logo-powerpro.png"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=%22Chivo%22:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "local": "/external/fonts.googleapis.com/css-P2ZhbWlseT0lMjJDaGl2byUyMjoxMDAs.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\external\\fonts.googleapis.com\\css-P2ZhbWlseT0lMjJDaGl2byUyMjoxMDAs.css"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/css/magnific-popup.css",
+    "local": "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\css\\magnific-popup.css"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-8cf392fb5a05.css",
+    "local": "/media/sppb-css/page-8cf392fb5a05.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-8cf392fb5a05.css"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/vetrne_elektrarny2.png",
+    "local": "/files/banners/vetrne_elektrarny2.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\vetrne_elektrarny2.png"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/windcube-banner-small.jpg",
+    "local": "/files/banners/windcube-banner-small.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\windcube-banner-small.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/ac-repair-number1.png",
+    "local": "/files/img/ac-repair-number1.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\ac-repair-number1.png"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/vetrne_elektrarny_jak_funguji_ico.jpg",
+    "local": "/files/banners/vetrne_elektrarny_jak_funguji_ico.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\vetrne_elektrarny_jak_funguji_ico.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/ac-repair-number2.png",
+    "local": "/files/img/ac-repair-number2.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\ac-repair-number2.png"
+  },
+  {
+    "url": "https://power-pro.cz/WindCube_V2.1_XP_Datasheet.pdf",
+    "local": "/WindCube_V2.1_XP_Datasheet.pdf",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\WindCube_V2.1_XP_Datasheet.pdf"
+  },
+  {
+    "url": "https://power-pro.cz/WindCube_2.1%20XP_product_presentation.pdf",
+    "local": "/WindCube_2.1%20XP_product_presentation.pdf",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\WindCube_2.1 XP_product_presentation.pdf"
+  },
+  {
+    "url": "https://power-pro.cz/PP25010A0_Classification_WindcubeV2_1XP_Summary.pdf",
+    "local": "/PP25010A0_Classification_WindcubeV2_1XP_Summary.pdf",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\PP25010A0_Classification_WindcubeV2_1XP_Summary.pdf"
+  },
+  {
+    "url": "https://power-pro.cz/Declaration_from_Manufacturer_Endorsement%20Letter.pdf",
+    "local": "/Declaration_from_Manufacturer_Endorsement%20Letter.pdf",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\Declaration_from_Manufacturer_Endorsement Letter.pdf"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-0f4fe0299090.css",
+    "local": "/media/sppb-css/page-0f4fe0299090.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-0f4fe0299090.css"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/windcube1.jpg",
+    "local": "/files/banners/windcube1.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\windcube1.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/windcubebanner2.png",
+    "local": "/files/banners/windcubebanner2.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\windcubebanner2.png"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/windcubebanner.png",
+    "local": "/files/banners/windcubebanner.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\windcubebanner.png"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-4de063ab9f2f.css",
+    "local": "/media/sppb-css/page-4de063ab9f2f.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-4de063ab9f2f.css"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-b779b718906c.css",
+    "local": "/media/sppb-css/page-b779b718906c.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-b779b718906c.css"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zelenyvodik1.jpg",
+    "local": "/files/banners/zelenyvodik1.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zelenyvodik1.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zelenyvodik3.jpg",
+    "local": "/files/banners/zelenyvodik3.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zelenyvodik3.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zelenyvodik2.jpg",
+    "local": "/files/banners/zelenyvodik2.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zelenyvodik2.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-d55bfaa9fc8a.css",
+    "local": "/media/sppb-css/page-d55bfaa9fc8a.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-d55bfaa9fc8a.css"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zeleny_vodik_banner2.jpg",
+    "local": "/files/banners/zeleny_vodik_banner2.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zeleny_vodik_banner2.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-1bc9aa827660.css",
+    "local": "/media/sppb-css/page-1bc9aa827660.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-1bc9aa827660.css"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-e741d670d6b7.css",
+    "local": "/media/sppb-css/page-e741d670d6b7.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-e741d670d6b7.css"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/bateriove_uloziste_ico.jpg",
+    "local": "/files/banners/bateriove_uloziste_ico.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\bateriove_uloziste_ico.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/bateriove_uloziste-2.png",
+    "local": "/files/img/bateriove_uloziste-2.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\bateriove_uloziste-2.png"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/aplikace3.jpg",
+    "local": "/files/img/aplikace3.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\aplikace3.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/img/video2.png",
+    "local": "/files/img/video2.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\img\\video2.png"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-545d58f59369.css",
+    "local": "/media/sppb-css/page-545d58f59369.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-545d58f59369.css"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zeleny_vodik1.jpg",
+    "local": "/files/banners/zeleny_vodik1.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zeleny_vodik1.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/media/videos/2026/05/04/Uvod_do_zeleneho_vodiku-3.mp4",
+    "local": "/media/videos/2026/05/04/Uvod_do_zeleneho_vodiku-3.mp4",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\videos\\2026\\05\\04\\Uvod_do_zeleneho_vodiku-3.mp4"
+  },
+  {
+    "url": "https://power-pro.cz/media/videos/2026/05/04/zeleny_vodik_-_technologie_ukladani_a_transport.mp4",
+    "local": "/media/videos/2026/05/04/zeleny_vodik_-_technologie_ukladani_a_transport.mp4",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\videos\\2026\\05\\04\\zeleny_vodik_-_technologie_ukladani_a_transport.mp4"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-860ca1a80478.css",
+    "local": "/media/sppb-css/page-860ca1a80478.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-860ca1a80478.css"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/kdo_jsme_ico.jpg",
+    "local": "/files/banners/kdo_jsme_ico.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\kdo_jsme_ico.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/tk_eko.jpg",
+    "local": "/files/banners/tk_eko.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\tk_eko.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/css/leaflet.css",
+    "local": "/components/com_sppagebuilder/assets/css/leaflet.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\css\\leaflet.css"
+  },
+  {
+    "url": "https://power-pro.cz/media/sppb-css/page-177424ae2ace.css",
+    "local": "/media/sppb-css/page-177424ae2ace.css",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\sppb-css\\page-177424ae2ace.css"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfMJaER2SjQpf.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfMJaER2SjQpf.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfMJaER2SjQpf.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfMJaERKSjQpf.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfMJaERKSjQpf.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfMJaERKSjQpf.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfMJaERySjQ.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfMJaERySjQ.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfMJaERySjQ.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU69_a8oxmIdGh4BCOz.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU69_a8oxmIdGh4BCOz.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU69_a8oxmIdGh4BCOz.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU69_a8oxmIdGd4BCOz.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU69_a8oxmIdGd4BCOz.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU69_a8oxmIdGd4BCOz.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU69_a8oxmIdGl4BA.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU69_a8oxmIdGl4BA.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU69_a8oxmIdGl4BA.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfJpbER2SjQpf.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfJpbER2SjQpf.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfJpbER2SjQpf.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfJpbERKSjQpf.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfJpbERKSjQpf.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfJpbERKSjQpf.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfJpbERySjQ.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfJpbERySjQ.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfJpbERySjQ.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfLZcER2SjQpf.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfLZcER2SjQpf.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfLZcER2SjQpf.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfLZcERKSjQpf.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfLZcERKSjQpf.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfLZcERKSjQpf.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfLZcERySjQ.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfLZcERySjQ.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfLZcERySjQ.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfNJdER2SjQpf.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfNJdER2SjQpf.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfNJdER2SjQpf.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfNJdERKSjQpf.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfNJdERKSjQpf.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfNJdERKSjQpf.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfNJdERySjQ.woff2",
+    "local": "/media/com_sppagebuilder/assets/google-fonts/Hind/5aU19_a8oxmIfNJdERySjQ.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\com_sppagebuilder\\assets\\google-fonts\\Hind\\5aU19_a8oxmIfNJdERySjQ.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/plugins/system/helixultimate/assets/images/chosen-sprite.png?v=8b55a8",
+    "local": "/plugins/system/helixultimate/assets/images/chosen-sprite.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\plugins\\system\\helixultimate\\assets\\images\\chosen-sprite.png"
+  },
+  {
+    "url": "https://power-pro.cz/plugins/system/helixultimate/assets/images/chosen-sprite@2x.png?v=614fad",
+    "local": "/plugins/system/helixultimate/assets/images/chosen-sprite@2x.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\plugins\\system\\helixultimate\\assets\\images\\chosen-sprite@2x.png"
+  },
+  {
+    "url": "https://power-pro.cz/templates/shaper_helixultimate/images/menu-bg.jpg",
+    "local": "/templates/shaper_helixultimate/images/menu-bg.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\templates\\shaper_helixultimate\\images\\menu-bg.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=896727",
+    "local": "/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=262525",
+    "local": "/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+  },
+  {
+    "url": "https://power-pro.cz/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=4a6591",
+    "local": "/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=269f97",
+    "local": "/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+  },
+  {
+    "url": "https://power-pro.cz/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=cbcf42",
+    "local": "/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+  },
+  {
+    "url": "https://power-pro.cz/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=15d54d",
+    "local": "/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\media\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/banner3.jpg",
+    "local": "/files/banners/banner3.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\banner3.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/vetrne_elektrarny5.jpg",
+    "local": "/files/banners/vetrne_elektrarny5.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\vetrne_elektrarny5.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/vetrne-elektrarny-fakta2.jpg",
+    "local": "/files/banners/vetrne-elektrarny-fakta2.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\vetrne-elektrarny-fakta2.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/vetrne_elektrarny_jak_funguji2.jpg",
+    "local": "/files/banners/vetrne_elektrarny_jak_funguji2.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\vetrne_elektrarny_jak_funguji2.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/vetrne_elektrarny_jak_funguji_full2.jpg",
+    "local": "/files/banners/vetrne_elektrarny_jak_funguji_full2.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\vetrne_elektrarny_jak_funguji_full2.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zelenyvodik1-1.jpg",
+    "local": "/files/banners/zelenyvodik1-1.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zelenyvodik1-1.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zelenyvodik3-banner.jpg",
+    "local": "/files/banners/zelenyvodik3-banner.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zelenyvodik3-banner.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zeleny_vodik_banner.jpg",
+    "local": "/files/banners/zeleny_vodik_banner.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zeleny_vodik_banner.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/bateriove_uloziste_banner2.jpg",
+    "local": "/files/banners/bateriove_uloziste_banner2.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\bateriove_uloziste_banner2.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/zelenyvodik2-banner.jpg",
+    "local": "/files/banners/zelenyvodik2-banner.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\zelenyvodik2-banner.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/kdo_jsme_banner.jpg",
+    "local": "/files/banners/kdo_jsme_banner.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\kdo_jsme_banner.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/files/banners/banner5.jpg",
+    "local": "/files/banners/banner5.jpg",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\files\\banners\\banner5.jpg"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/images/layers.png",
+    "local": "/components/com_sppagebuilder/assets/images/layers.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\images\\layers.png"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/images/layers-2x.png",
+    "local": "/components/com_sppagebuilder/assets/images/layers-2x.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\images\\layers-2x.png"
+  },
+  {
+    "url": "https://power-pro.cz/components/com_sppagebuilder/assets/images/marker-icon.png",
+    "local": "/components/com_sppagebuilder/assets/images/marker-icon.png",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\components\\com_sppagebuilder\\assets\\images\\marker-icon.png"
+  }
+]

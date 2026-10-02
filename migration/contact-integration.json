@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-09-27T20:38:04.405Z",
+  "site": "pro",
+  "checks": [
+    "cross-origin request rejected",
+    "unsupported content type rejected",
+    "malformed JSON rejected",
+    "invalid input rejected",
+    "oversized body rejected",
+    "incorrect challenge rejected",
+    "production endpoint delivers exactly one message to the local SMTP sink",
+    "repeated submissions are throttled"
+  ],
+  "externalEmailsSent": 0
+}

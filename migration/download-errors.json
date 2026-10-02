@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://fonts.googleapis.com/css?family=%22Raleway%22:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "error": "Error: Command failed: curl.exe -L --fail --retry 2 --max-time 90 -sS https://fonts.googleapis.com/css?family=%22Raleway%22:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap -o F:\\Projects\\Weby\\Power-pro-web\\public\\external\\fonts.googleapis.com\\css-P2ZhbWlseT0lMjJSYWxld2F5JTIyOjEw.css -w %{http_code}\ncurl: (22) The requested URL returned error: 400\r\n"
+  },
+  {
+    "url": "https://power-pro.cz/",
+    "error": "Error: Command failed: curl.exe -L --fail --retry 2 --max-time 90 -sS https://power-pro.cz/ -o F:\\Projects\\Weby\\Power-pro-web\\public\\ -w %{http_code}\ncurl: (23) client returned ERROR on write of 8192 bytes\r\n"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=%22Chivo%22:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+    "error": "Error: Command failed: curl.exe -L --fail --retry 2 --max-time 90 -sS https://fonts.googleapis.com/css?family=%22Chivo%22:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap -o F:\\Projects\\Weby\\Power-pro-web\\public\\external\\fonts.googleapis.com\\css-P2ZhbWlseT0lMjJDaGl2byUyMjoxMDAs.css -w %{http_code}\ncurl: (22) The requested URL returned error: 400\r\n"
+  }
+]

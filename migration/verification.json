@@ -1,0 +1,394 @@
+{
+  "checkedAt": "2026-09-27T20:42:12.325Z",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Moderní energetická řešení pro firmy i domácnosti - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "home-projektovy-management-v-obnovitelne-energii-section-1",
+        "home-nase-zamereni-section-1",
+        "spolu",
+        "home-section-4-section-1",
+        "home-restored-1-1",
+        "home-chcete-vedet-vice-section-1"
+      ],
+      "originalSections": [
+        "home-projektovy-management-v-obnovitelne-energii-section-1",
+        "home-nase-zamereni-section-1",
+        "spolu",
+        "home-section-4-section-1",
+        "home-restored-1-1",
+        "home-chcete-vedet-vice-section-1"
+      ],
+      "headings": [
+        "Projektový management v obnovitelné energii",
+        "Naše zaměření",
+        "Větrné elektrárny",
+        "Zelený vodík",
+        "Bateriová úložiště",
+        "Jedeme v tom spolu!",
+        "Chcete vědět více?"
+      ],
+      "originalHeadings": [
+        "Projektový management v obnovitelné energii",
+        "Naše zaměření",
+        "Větrné elektrárny",
+        "Zelený vodík",
+        "Bateriová úložiště",
+        "Jedeme v tom spolu!",
+        "Chcete vědět více?"
+      ]
+    },
+    {
+      "path": "/aktuality",
+      "status": 200,
+      "title": "Aktuality | Novinky z oblasti energetiky - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "aktuality-aktuality-section-1",
+        "aktuality-section-2-section-1",
+        "aktuality-podcasty-section-1",
+        "aktuality-section-4-section-1",
+        "aktuality-section-5-section-1"
+      ],
+      "originalSections": [
+        "aktuality-aktuality-section-1",
+        "aktuality-section-2-section-1",
+        "aktuality-podcasty-section-1",
+        "aktuality-section-4-section-1",
+        "aktuality-section-5-section-1"
+      ],
+      "headings": [
+        "Aktuality",
+        "Podcasty"
+      ],
+      "originalHeadings": [
+        "Aktuality",
+        "Podcasty"
+      ]
+    },
+    {
+      "path": "/bateriove-uloziste",
+      "status": 200,
+      "title": "Bateriová úložiště | Efektivní ukládání energie - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "bateriove-uloziste-bateriove-uloziste-section-1",
+        "bateriove-uloziste-energie-pod-kontrolou-ciste-a-chytre-section-1",
+        "bateriove-uloziste-jak-funguji-bateriova-uloziste-section-1",
+        "bateriove-uloziste-section-4-section-1",
+        "bateriove-uloziste-hlavni-casti-systemu-section-1",
+        "bateriove-uloziste-jak-funguje-prenosova-soustava-section-1",
+        "bateriove-uloziste-jak-se-udrzuje-vykonova-rovnovaha-section-1",
+        "bateriove-uloziste-restored-1-1",
+        "bateriove-uloziste-pomuzeme-vam-s-bateriovymi-ulozisti-section-1"
+      ],
+      "originalSections": [
+        "bateriove-uloziste-bateriove-uloziste-section-1",
+        "bateriove-uloziste-energie-pod-kontrolou-ciste-a-chytre-section-1",
+        "bateriove-uloziste-jak-funguji-bateriova-uloziste-section-1",
+        "bateriove-uloziste-section-4-section-1",
+        "bateriove-uloziste-hlavni-casti-systemu-section-1",
+        "bateriove-uloziste-jak-funguje-prenosova-soustava-section-1",
+        "bateriove-uloziste-jak-se-udrzuje-vykonova-rovnovaha-section-1",
+        "bateriove-uloziste-restored-1-1",
+        "bateriove-uloziste-pomuzeme-vam-s-bateriovymi-ulozisti-section-1"
+      ],
+      "headings": [
+        "Bateriové úložiště",
+        "Energie pod kontrolou, čistě a chytře",
+        "Jak fungují bateriová úložiště?",
+        "Hlavní části systému",
+        "Jak funguje přenosová soustava",
+        "Jak se udržuje výkonová rovnováha?",
+        "Pomůžeme vám s bateriovými úložišti"
+      ],
+      "originalHeadings": [
+        "Bateriové úložiště",
+        "Energie pod kontrolou, čistě a chytře",
+        "Jak fungují bateriová úložiště?",
+        "Hlavní části systému",
+        "Jak funguje přenosová soustava",
+        "Jak se udržuje výkonová rovnováha?",
+        "Pomůžeme vám s bateriovými úložišti"
+      ]
+    },
+    {
+      "path": "/e-mail-podekovani",
+      "status": 200,
+      "title": "E-mail poděkování - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "e-mail-podekovani-section-1-section-1",
+        "e-mail-podekovani-dekujeme-za-vasi-zpravu-section-1"
+      ],
+      "originalSections": [
+        "e-mail-podekovani-section-1-section-1",
+        "e-mail-podekovani-dekujeme-za-vasi-zpravu-section-1"
+      ],
+      "headings": [
+        "Děkujeme za Vaši zprávu",
+        "Vaše zpráva byla úspěšně odeslána.",
+        "Ozveme se Vám co nejdříve, jakmile ji zpracujeme."
+      ],
+      "originalHeadings": [
+        "Děkujeme za Vaši zprávu",
+        "Vaše zpráva byla úspěšně odeslána.",
+        "Ozveme se Vám co nejdříve, jakmile ji zpracujeme."
+      ]
+    },
+    {
+      "path": "/kontakt",
+      "status": 200,
+      "title": "Kontakt - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "kontakt-kontakt-section-1",
+        "kontakt-adresa-section-1",
+        "kontakt-restored-1-1"
+      ],
+      "originalSections": [
+        "kontakt-kontakt-section-1",
+        "kontakt-adresa-section-1",
+        "kontakt-restored-1-1"
+      ],
+      "headings": [
+        "Kontakt",
+        "Adresa",
+        "Telefon",
+        "E-mail"
+      ],
+      "originalHeadings": [
+        "Kontakt",
+        "Adresa",
+        "Telefon",
+        "E-mail"
+      ]
+    },
+    {
+      "path": "/proc-s-nami",
+      "status": 200,
+      "title": "Proč s námi | Power Pro – spolehlivý partner v energetice - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "proc-s-nami-proc-s-nami-section-1",
+        "proc-s-nami-power-pro-section-1"
+      ],
+      "originalSections": [
+        "proc-s-nami-proc-s-nami-section-1",
+        "proc-s-nami-power-pro-section-1"
+      ],
+      "headings": [
+        "Proč s námi",
+        "POWER PRO"
+      ],
+      "originalHeadings": [
+        "Proč s námi",
+        "POWER PRO"
+      ]
+    },
+    {
+      "path": "/vetrne-elektrarny",
+      "status": 200,
+      "title": "Větrné elektrárny | Výroba energie z větru - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "vetrne-elektrarny-vetrne-elektrarny-section-1",
+        "vetrne-elektrarny-section-2-section-1",
+        "vetrne-elektrarny-realizace-mereni-vetru-section-1",
+        "vetrne-elektrarny-section-4-section-1"
+      ],
+      "originalSections": [
+        "vetrne-elektrarny-vetrne-elektrarny-section-1",
+        "vetrne-elektrarny-section-2-section-1",
+        "vetrne-elektrarny-realizace-mereni-vetru-section-1",
+        "vetrne-elektrarny-section-4-section-1"
+      ],
+      "headings": [
+        "Větrné elektrárny",
+        "Realizace měření větru ➜",
+        "O větrných elektrárnách ➜"
+      ],
+      "originalHeadings": [
+        "Větrné elektrárny",
+        "Realizace měření větru ➜",
+        "O větrných elektrárnách ➜"
+      ]
+    },
+    {
+      "path": "/vetrne-elektrarny/o-vetrnych-elektrarnach",
+      "status": 200,
+      "title": "Větrné elektrárny – fakta a zajímavosti - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "vetrne-elektrarny-vetrne-elektrarny-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-windcube-2-1-xp-jak-meri-vitr-section-1",
+        "vetrne-elektrarny__o-vetrnych-elektrarnach-fakta-section-1"
+      ],
+      "originalSections": [
+        "vetrne-elektrarny-vetrne-elektrarny-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-windcube-2-1-xp-jak-meri-vitr-section-1",
+        "vetrne-elektrarny__o-vetrnych-elektrarnach-fakta-section-1"
+      ],
+      "headings": [
+        "Větrné elektrárny",
+        "O větrných elektrárnách",
+        "Jak se získává energie z větru?",
+        "Na čem závisí výkon větrné elektrárny?",
+        "Fakta",
+        "Jaká je energetická návratnost větrných elektráren?",
+        "Máme v Česku pro větrné elektrárny vhodný vítr?",
+        "Jak hlučná je větrná elektrárna?",
+        "Jaký vliv má větrná elektrárna na zvířata a ptáky?",
+        "Co se s větrnou elektrárnou stane, až doslouží?"
+      ],
+      "originalHeadings": [
+        "Větrné elektrárny",
+        "O větrných elektrárnách",
+        "Jak se získává energie z větru?",
+        "Na čem závisí výkon větrné elektrárny?",
+        "Fakta",
+        "Jaká je energetická návratnost větrných elektráren?",
+        "Máme v Česku pro větrné elektrárny vhodný vítr?",
+        "Jak hlučná je větrná elektrárna?",
+        "Jaký vliv má větrná elektrárna na zvířata a ptáky?",
+        "Co se s větrnou elektrárnou stane, až doslouží?"
+      ]
+    },
+    {
+      "path": "/vetrne-elektrarny/realizace-mereni-vetru",
+      "status": 200,
+      "title": "Jak fungují větrné elektrárny | Princip výroby energie - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "vetrne-elektrarny-vetrne-elektrarny-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-windcube-2-1-xp-jak-meri-vitr-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-ke-stazeni-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-section-4-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-section-5-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-section-6-section-1"
+      ],
+      "originalSections": [
+        "vetrne-elektrarny-vetrne-elektrarny-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-windcube-2-1-xp-jak-meri-vitr-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-ke-stazeni-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-section-4-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-section-5-section-1",
+        "vetrne-elektrarny__realizace-mereni-vetru-section-6-section-1"
+      ],
+      "headings": [
+        "Větrné elektrárny",
+        "Realizace měření větru",
+        "WindCube 2.1 XP – Jak měří vítr",
+        "Pulzní laserová technologie",
+        "4 šikmé + 1 vertikální paprsek",
+        "20 výšek současně",
+        "Ke stažení"
+      ],
+      "originalHeadings": [
+        "Větrné elektrárny",
+        "Realizace měření větru",
+        "WindCube 2.1 XP – Jak měří vítr",
+        "Pulzní laserová technologie",
+        "4 šikmé + 1 vertikální paprsek",
+        "20 výšek současně",
+        "Ke stažení"
+      ]
+    },
+    {
+      "path": "/zeleny-vodik",
+      "status": 200,
+      "title": "Zelený vodík | Budoucnost čisté energie - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "vetrne-elektrarny-vetrne-elektrarny-section-1",
+        "vetrne-elektrarny-realizace-mereni-vetru-section-1"
+      ],
+      "originalSections": [
+        "vetrne-elektrarny-vetrne-elektrarny-section-1",
+        "vetrne-elektrarny-realizace-mereni-vetru-section-1"
+      ],
+      "headings": [
+        "Zelený vodík",
+        "Druhy vodíku ➜",
+        "Co umíme ➜"
+      ],
+      "originalHeadings": [
+        "Zelený vodík",
+        "Druhy vodíku ➜",
+        "Co umíme ➜"
+      ]
+    },
+    {
+      "path": "/zeleny-vodik/co-umime",
+      "status": 200,
+      "title": "Řešení se zeleným vodíkem | Technologie a realizace - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "zeleny-vodik__druhy-zeleneho-vodiku-zeleny-vodik-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-vodik-muze-mit-mnoho-barev-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-s-cim-vam-pomuzeme-section-1"
+      ],
+      "originalSections": [
+        "zeleny-vodik__druhy-zeleneho-vodiku-zeleny-vodik-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-vodik-muze-mit-mnoho-barev-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-s-cim-vam-pomuzeme-section-1"
+      ],
+      "headings": [
+        "Co umíme",
+        "Co umíme",
+        "S čím Vám pomůžeme"
+      ],
+      "originalHeadings": [
+        "Co umíme",
+        "Co umíme",
+        "S čím Vám pomůžeme"
+      ]
+    },
+    {
+      "path": "/zeleny-vodik/druhy-zeleneho-vodiku",
+      "status": 200,
+      "title": "Druhy vodíku | Zelený, modrý a šedý vodík - Power-pro.cz",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "zeleny-vodik__druhy-zeleneho-vodiku-zeleny-vodik-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-vodik-muze-mit-mnoho-barev-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-section-3-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-s-cim-vam-pomuzeme-section-1"
+      ],
+      "originalSections": [
+        "zeleny-vodik__druhy-zeleneho-vodiku-zeleny-vodik-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-vodik-muze-mit-mnoho-barev-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-section-3-section-1",
+        "zeleny-vodik__druhy-zeleneho-vodiku-s-cim-vam-pomuzeme-section-1"
+      ],
+      "headings": [
+        "Zelený vodík",
+        "Vodík může mít mnoho „barev\"...",
+        "S čím Vám pomůžeme"
+      ],
+      "originalHeadings": [
+        "Zelený vodík",
+        "Vodík může mít mnoho „barev\"...",
+        "S čím Vám pomůžeme"
+      ]
+    }
+  ],
+  "uniqueAssets": 79,
+  "notFoundStatus": 404,
+  "issues": []
+}

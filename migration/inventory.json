@@ -1,0 +1,2605 @@
+[
+  {
+    "route": "/",
+    "key": "home",
+    "title": "Moderní energetická řešení pro firmy i domácnosti - Power-pro.cz",
+    "description": "Navrhujeme a realizujeme moderní energetická řešení – bateriová úložiště, obnovitelné zdroje a efektivní správa energie pro firmy i domácnosti.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Jak to funguje?",
+        "href": "https://power-pro.cz/#spolu"
+      },
+      {
+        "text": "Nezávazná konzultace",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Chci vědět víc",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Projektový management v obnovitelné energii",
+      "Naše zaměření",
+      "Větrné elektrárny",
+      "Zelený vodík",
+      "Bateriová úložiště",
+      "Jedeme v tom spolu!",
+      "Chcete vědět více?",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Raleway\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-40014bb3c873.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"d4e95a8300556d699b3061b6be45c00e\"}",
+      "  ",
+      " ",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Projektový management v obnovitelné energiiJak to funguje?Nezávazná konzultaceNaše zaměřeníKomplexní řešení pro energetickou soběstačnost a udržitelnou budoucnostVětrné elektrárnyModerní větrné turbíny s vysokou účinností. Zajistíme kompletní realizaci od studie proveditelnosti až po zprovoznění a servis.Zelený vodíkSkladujte vyrobenou energii a využívejte ji ve špičce. Zvyšte soběstačnost a stabilitu vaší energetické sítě.Bateriová úložištěVýroba a skladování zeleného vodíku pro budoucnost. Ideální řešení pro dlouhodobé energetické zásobování.Jedeme v tom spolu!Naše společnost Power Pro se zabývá dekarbonizačními projekty – od větrných elektráren, přes bateriová úložiště, až po výrobu zeleného vodíku. Navrhujeme, řídíme a realizujeme komplexní řešení šitá na míru každému partnerovi. Zakládáme si na vzájemné důvěře a budování dlouhodobých partnerství. Naším cílem je přispět k zelenější budoucnosti České republiky Analýza a studie Zpracujeme studii proveditelnosti nebo energetický audit. Ověříme legislativní limity, návratnost a optimální řešení pro váš projekt. Projekt pro úřady Zajistíme dokumentaci pro územní a stavební řízení a kompletní inženýring s úřady a distributory. Realizační projekt Vypracujeme podrobnou realizační dokumentaci pro stavební firmu, včetně výkazů výměr a technických detailů. Inženýring a dozor Dohlédneme na kvalitu a rozpočet, pomůžeme s výběrem vhodného dodavatele a provedeme odborný autorský dozor. Kolaudace a uvedení do provozu Zajistíme revize, zkoušky, dokumentaci skutečného provedení a úspěšnou kolaudaci. Chcete vědět více?Máte nápad, či dotaz který byste s námi rádi probrali? Kontaktujte nás!Chci vědět víc Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/vetrne-elektrarny",
+    "key": "vetrne-elektrarny",
+    "title": "Větrné elektrárny | Výroba energie z větru - Power-pro.cz",
+    "description": "Větrné elektrárny pro firmy i investory. Využijte energii větru, snižte náklady na elektřinu a zvyšte energetickou soběstačnost.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "Realizace měření větru ➜",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "",
+        "href": "https://tonbo.savana-hosting.cz/"
+      },
+      {
+        "text": "O větrných elektrárnách ➜",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "dostupných na stránkách csve.cz",
+        "href": "https://www.csve.cz/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Větrné elektrárny",
+      "Realizace měření větru ➜",
+      "O větrných elektrárnách ➜",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-8cf392fb5a05.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"1f2fe8f292142a1f385bac60618baad5\"}",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Větrné elektrárny„Společně s obcemi budujeme větrné elektrárny.Investujeme, vlastníme a profitujeme společně.“Realizace měření větru ➜Jak větrná elektrárna přeměňuje energii větru na elektřinu a z jakých hlavních částí se skládá. Vysvětlení principu výroby elektřiny krok za krokem.O větrných elektrárnách ➜Přehled ověřených informací o větrných elektrárnách, jejich provozu, přínosech a vlivech na okolí. Odpovědi na nejčastější otázky a rozšířené mýty.* Informace v této sekci vycházejí z materiálů dostupných na stránkách csve.cz, kde naleznete také další podrobné informace o větrných elektrárnách. Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/vetrne-elektrarny/realizace-mereni-vetru",
+    "key": "vetrne-elektrarny__realizace-mereni-vetru",
+    "title": "Jak fungují větrné elektrárny | Princip výroby energie - Power-pro.cz",
+    "description": "Zjistěte, jak fungují větrné elektrárny a jak se energie větru mění na elektřinu. Jednoduché vysvětlení principu a fungování turbín.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "PDF\n  \n    Datasheet WindCube V2.1 XP\n    Technická specifikace · PDF\n  \n  ↓",
+        "href": "/WindCube_V2.1_XP_Datasheet.pdf"
+      },
+      {
+        "text": "PDF\n  \n    Produktová prezentace V2.1 XP\n    Produktová prezentace · PDF\n  \n  ↓",
+        "href": "/WindCube_2.1 XP_product_presentation.pdf"
+      },
+      {
+        "text": "PDF\n  \n    Souhrnná klasifikační zpráva V2.1 XP\n    Classification summary report V2.1 XP · PDF\n  \n  ↓",
+        "href": "/PP25010A0_Classification_WindcubeV2_1XP_Summary.pdf"
+      },
+      {
+        "text": "PDF\n  \n    Technické oprávnění od výrobce WindCube V2.1 XP\n    Declaration from Manufacturer · PDF\n  \n  ↓",
+        "href": "/Declaration_from_Manufacturer_Endorsement Letter.pdf"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Větrné elektrárny",
+      "Realizace měření větru",
+      "WindCube 2.1 XP – Jak měří vítr",
+      "Pulzní laserová technologie",
+      "4 šikmé + 1 vertikální paprsek",
+      "20 výšek současně",
+      "Ke stažení",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-0f4fe0299090.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}",
+      "\n.wc-feature-card{\n  background:#fff;\n  border:1px solid #e6ecf3;\n  border-radius:12px;\n  padding:28px;\n  box-shadow:0 4px 18px rgba(31,45,61,.04);\n  height:100%;\n}\n.wc-feature-card .wc-img{\n  width:54px;\n  height:54px;\n  border-radius:12px;\n  object-fit:cover;\n  display:block;\n  margin-bottom:16px;\n  background:#eef2f6;\n}\n.wc-feature-card h3{\n  font-size:1.15rem;\n  color:#1f2d3d;\n  margin:0 0 10px;\n}\n.wc-feature-card p{\n  color:#5a6b7d;\n  margin:0;\n  font-size:.95rem;\n  line-height:1.55;\n}\n",
+      "\n.wc-feature-card{\n  background:#fff;\n  border:1px solid #e6ecf3;\n  border-radius:12px;\n  padding:28px;\n  box-shadow:0 4px 18px rgba(31,45,61,.04);\n  height:100%;\n}\n.wc-feature-card .wc-img{\n  width:54px;\n  height:54px;\n  border-radius:12px;\n  object-fit:cover;\n  display:block;\n  margin-bottom:16px;\n  background:#eef2f6;\n}\n.wc-feature-card h3{\n  font-size:1.15rem;\n  color:#1f2d3d;\n  margin:0 0 10px;\n}\n.wc-feature-card p{\n  color:#5a6b7d;\n  margin:0;\n  font-size:.95rem;\n  line-height:1.55;\n}\n",
+      "\n.wc-feature-card{\n  background:#fff;\n  border:1px solid #e6ecf3;\n  border-radius:12px;\n  padding:28px;\n  box-shadow:0 4px 18px rgba(31,45,61,.04);\n  height:100%;\n}\n.wc-feature-card .wc-img{\n  width:54px;\n  height:54px;\n  border-radius:12px;\n  object-fit:cover;\n  display:block;\n  margin-bottom:16px;\n  background:#eef2f6;\n}\n.wc-feature-card h3{\n  font-size:1.15rem;\n  color:#1f2d3d;\n  margin:0 0 10px;\n}\n.wc-feature-card p{\n  color:#5a6b7d;\n  margin:0;\n  font-size:.95rem;\n  line-height:1.55;\n}\n",
+      "\n.wc-dl-card{\n  display:flex;align-items:center;gap:18px;\n  background:#fff;border:1px solid #e6ecf3;border-radius:12px;\n  padding:22px;text-decoration:none;color:inherit;\n  max-width:560px;\n  transition:transform .2s,box-shadow .2s,border-color .2s;\n}\n.wc-dl-card:hover{\n  transform:translateY(-3px);\n  box-shadow:0 14px 32px rgba(31,45,61,.10);\n  border-color:#6B86A1;color:inherit;text-decoration:none;\n}\n.wc-dl-icon{\n  flex:0 0 56px;width:56px;height:68px;\n  background:linear-gradient(135deg,#6B86A1,#3a5774);\n  color:#fff;border-radius:8px;\n  display:flex;align-items:center;justify-content:center;\n  font-weight:700;font-size:.72rem;letter-spacing:.05em;\n  position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35);\n}\n.wc-dl-icon::after{\n  content:\"\";position:absolute;top:0;right:0;\n  width:14px;height:14px;\n  background:linear-gradient(225deg,#fff 50%,transparent 50%);\n  border-radius:0 8px 0 4px;\n}\n.wc-dl-body{flex:1;min-width:0;}\n.wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;}\n.wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;}\n.wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;}\n.wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);}\n",
+      "\n.wc-dl-card{\n  display:flex;align-items:center;gap:18px;\n  background:#fff;border:1px solid #e6ecf3;border-radius:12px;\n  padding:22px;text-decoration:none;color:inherit;\n  max-width:560px;\n  transition:transform .2s,box-shadow .2s,border-color .2s;\n}\n.wc-dl-card:hover{\n  transform:translateY(-3px);\n  box-shadow:0 14px 32px rgba(31,45,61,.10);\n  border-color:#6B86A1;color:inherit;text-decoration:none;\n}\n.wc-dl-icon{\n  flex:0 0 56px;width:56px;height:68px;\n  background:linear-gradient(135deg,#6B86A1,#3a5774);\n  color:#fff;border-radius:8px;\n  display:flex;align-items:center;justify-content:center;\n  font-weight:700;font-size:.72rem;letter-spacing:.05em;\n  position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35);\n}\n.wc-dl-icon::after{\n  content:\"\";position:absolute;top:0;right:0;\n  width:14px;height:14px;\n  background:linear-gradient(225deg,#fff 50%,transparent 50%);\n  border-radius:0 8px 0 4px;\n}\n.wc-dl-body{flex:1;min-width:0;}\n.wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;}\n.wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;}\n.wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;}\n.wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);}\n",
+      "\n.wc-dl-card{\n  display:flex;align-items:center;gap:18px;\n  background:#fff;border:1px solid #e6ecf3;border-radius:12px;\n  padding:22px;text-decoration:none;color:inherit;\n  max-width:560px;\n  transition:transform .2s,box-shadow .2s,border-color .2s;\n}\n.wc-dl-card:hover{\n  transform:translateY(-3px);\n  box-shadow:0 14px 32px rgba(31,45,61,.10);\n  border-color:#6B86A1;color:inherit;text-decoration:none;\n}\n.wc-dl-icon{\n  flex:0 0 56px;width:56px;height:68px;\n  background:linear-gradient(135deg,#6B86A1,#3a5774);\n  color:#fff;border-radius:8px;\n  display:flex;align-items:center;justify-content:center;\n  font-weight:700;font-size:.72rem;letter-spacing:.05em;\n  position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35);\n}\n.wc-dl-icon::after{\n  content:\"\";position:absolute;top:0;right:0;\n  width:14px;height:14px;\n  background:linear-gradient(225deg,#fff 50%,transparent 50%);\n  border-radius:0 8px 0 4px;\n}\n.wc-dl-body{flex:1;min-width:0;}\n.wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;}\n.wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;}\n.wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;}\n.wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);}\n",
+      "\n.wc-dl-card{\n  display:flex;align-items:center;gap:18px;\n  background:#fff;border:1px solid #e6ecf3;border-radius:12px;\n  padding:22px;text-decoration:none;color:inherit;\n  max-width:560px;\n  transition:transform .2s,box-shadow .2s,border-color .2s;\n}\n.wc-dl-card:hover{\n  transform:translateY(-3px);\n  box-shadow:0 14px 32px rgba(31,45,61,.10);\n  border-color:#6B86A1;color:inherit;text-decoration:none;\n}\n.wc-dl-icon{\n  flex:0 0 56px;width:56px;height:68px;\n  background:linear-gradient(135deg,#6B86A1,#3a5774);\n  color:#fff;border-radius:8px;\n  display:flex;align-items:center;justify-content:center;\n  font-weight:700;font-size:.72rem;letter-spacing:.05em;\n  position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35);\n}\n.wc-dl-icon::after{\n  content:\"\";position:absolute;top:0;right:0;\n  width:14px;height:14px;\n  background:linear-gradient(225deg,#fff 50%,transparent 50%);\n  border-radius:0 8px 0 4px;\n}\n.wc-dl-body{flex:1;min-width:0;}\n.wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;}\n.wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;}\n.wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;}\n.wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);}\n"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"70a1c1a00911554b35b4a6fa50ff317d\"}",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Větrné elektrárnyRealizace měření větruWindCube 2.1 XP – Jak měří vítr WindCube je založen na principu pulzního Dopplerovského heterodynového laseru. Vysílá do atmosféry světelné pulzy a měří signál odražený od aerosolů přirozeně přítomných ve vzduchu. Z časového posunu a Dopplerova jevu pak vypočítá přesnou rychlost a směr větru. Přesnost měření není ovlivněna oblačností, mlhou, prachem ani překážkami v okolí. Proč právě WindCube 2.1 XP IP66 / IP67 | Krytí pro každé počasí35 W | Nízká spotřeba – vhodné i pro solární napájení5 let | Standardní záruka (rozšiřitelná až na 10 let)40 → 400+ m | Měřicí rozsah výšky0,1 m/s | Přesnost rychlosti větru2° | Přesnost směru větru .wc-feature-card{ background:#fff; border:1px solid #e6ecf3; border-radius:12px; padding:28px; box-shadow:0 4px 18px rgba(31,45,61,.04); height:100%; } .wc-feature-card .wc-img{ width:54px; height:54px; border-radius:12px; object-fit:cover; display:block; margin-bottom:16px; background:#eef2f6; } .wc-feature-card h3{ font-size:1.15rem; color:#1f2d3d; margin:0 0 10px; } .wc-feature-card p{ color:#5a6b7d; margin:0; font-size:.95rem; line-height:1.55; } Pulzní laserová technologie Vysoká frekvence pulzů a analýza Dopplerova posunu před vysláním dalšího pulzu zajišťují konstantní prostorové rozlišení po celém profilu měření. .wc-feature-card{ background:#fff; border:1px solid #e6ecf3; border-radius:12px; padding:28px; box-shadow:0 4px 18px rgba(31,45,61,.04); height:100%; } .wc-feature-card .wc-img{ width:54px; height:54px; border-radius:12px; object-fit:cover; display:block; margin-bottom:16px; background:#eef2f6; } .wc-feature-card h3{ font-size:1.15rem; color:#1f2d3d; margin:0 0 10px; } .wc-feature-card p{ color:#5a6b7d; margin:0; font-size:.95rem; line-height:1.55; } 4 šikmé + 1 vertikální paprsek Geometrie 4 paprsků nakloněných pod úhlem 28° doplněná o vertikální paprsek umožňuje přímé měření vertikální složky rychlosti a přesný výpočet turbulence. .wc-feature-card{ background:#fff; border:1px solid #e6ecf3; border-radius:12px; padding:28px; box-shadow:0 4px 18px rgba(31,45,61,.04); height:100%; } .wc-feature-card .wc-img{ width:54px; height:54px; border-radius:12px; object-fit:cover; display:block; margin-bottom:16px; background:#eef2f6; } .wc-feature-card h3{ font-size:1.15rem; color:#1f2d3d; margin:0 0 10px; } .wc-feature-card p{ color:#5a6b7d; margin:0; font-size:.95rem; line-height:1.55; } 20 výšek současně V jeden okamžik měříte rychlost, směr a turbulenci větru až ve dvaceti uživatelsky definovaných výškách od 40 m do více než 400 m – a to vše s vysokou vzorkovací frekvencí 1 Hz. Ke stažení .wc-dl-card{ display:flex;align-items:center;gap:18px; background:#fff;border:1px solid #e6ecf3;border-radius:12px; padding:22px;text-decoration:none;color:inherit; max-width:560px; transition:transform .2s,box-shadow .2s,border-color .2s; } .wc-dl-card:hover{ transform:translateY(-3px); box-shadow:0 14px 32px rgba(31,45,61,.10); border-color:#6B86A1;color:inherit;text-decoration:none; } .wc-dl-icon{ flex:0 0 56px;width:56px;height:68px; background:linear-gradient(135deg,#6B86A1,#3a5774); color:#fff;border-radius:8px; display:flex;align-items:center;justify-content:center; font-weight:700;font-size:.72rem;letter-spacing:.05em; position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35); } .wc-dl-icon::after{ content:\"\";position:absolute;top:0;right:0; width:14px;height:14px; background:linear-gradient(225deg,#fff 50%,transparent 50%); border-radius:0 8px 0 4px; } .wc-dl-body{flex:1;min-width:0;} .wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;} .wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;} .wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;} .wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);} PDF Datasheet WindCube V2.1 XP Technická specifikace · PDF ↓ .wc-dl-card{ display:flex;align-items:center;gap:18px; background:#fff;border:1px solid #e6ecf3;border-radius:12px; padding:22px;text-decoration:none;color:inherit; max-width:560px; transition:transform .2s,box-shadow .2s,border-color .2s; } .wc-dl-card:hover{ transform:translateY(-3px); box-shadow:0 14px 32px rgba(31,45,61,.10); border-color:#6B86A1;color:inherit;text-decoration:none; } .wc-dl-icon{ flex:0 0 56px;width:56px;height:68px; background:linear-gradient(135deg,#6B86A1,#3a5774); color:#fff;border-radius:8px; display:flex;align-items:center;justify-content:center; font-weight:700;font-size:.72rem;letter-spacing:.05em; position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35); } .wc-dl-icon::after{ content:\"\";position:absolute;top:0;right:0; width:14px;height:14px; background:linear-gradient(225deg,#fff 50%,transparent 50%); border-radius:0 8px 0 4px; } .wc-dl-body{flex:1;min-width:0;} .wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;} .wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;} .wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;} .wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);} PDF Produktová prezentace V2.1 XP Produktová prezentace · PDF ↓ .wc-dl-card{ display:flex;align-items:center;gap:18px; background:#fff;border:1px solid #e6ecf3;border-radius:12px; padding:22px;text-decoration:none;color:inherit; max-width:560px; transition:transform .2s,box-shadow .2s,border-color .2s; } .wc-dl-card:hover{ transform:translateY(-3px); box-shadow:0 14px 32px rgba(31,45,61,.10); border-color:#6B86A1;color:inherit;text-decoration:none; } .wc-dl-icon{ flex:0 0 56px;width:56px;height:68px; background:linear-gradient(135deg,#6B86A1,#3a5774); color:#fff;border-radius:8px; display:flex;align-items:center;justify-content:center; font-weight:700;font-size:.72rem;letter-spacing:.05em; position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35); } .wc-dl-icon::after{ content:\"\";position:absolute;top:0;right:0; width:14px;height:14px; background:linear-gradient(225deg,#fff 50%,transparent 50%); border-radius:0 8px 0 4px; } .wc-dl-body{flex:1;min-width:0;} .wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;} .wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;} .wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;} .wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);} PDF Souhrnná klasifikační zpráva V2.1 XP Classification summary report V2.1 XP · PDF ↓ .wc-dl-card{ display:flex;align-items:center;gap:18px; background:#fff;border:1px solid #e6ecf3;border-radius:12px; padding:22px;text-decoration:none;color:inherit; max-width:560px; transition:transform .2s,box-shadow .2s,border-color .2s; } .wc-dl-card:hover{ transform:translateY(-3px); box-shadow:0 14px 32px rgba(31,45,61,.10); border-color:#6B86A1;color:inherit;text-decoration:none; } .wc-dl-icon{ flex:0 0 56px;width:56px;height:68px; background:linear-gradient(135deg,#6B86A1,#3a5774); color:#fff;border-radius:8px; display:flex;align-items:center;justify-content:center; font-weight:700;font-size:.72rem;letter-spacing:.05em; position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35); } .wc-dl-icon::after{ content:\"\";position:absolute;top:0;right:0; width:14px;height:14px; background:linear-gradient(225deg,#fff 50%,transparent 50%); border-radius:0 8px 0 4px; } .wc-dl-body{flex:1;min-width:0;} .wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;} .wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;} .wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;} .wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);} PDF Technické oprávnění od výrobce WindCube V2.1 XP Declaration from Manufacturer · PDF ↓ Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/vetrne-elektrarny/o-vetrnych-elektrarnach",
+    "key": "vetrne-elektrarny__o-vetrnych-elektrarnach",
+    "title": "Větrné elektrárny – fakta a zajímavosti - Power-pro.cz",
+    "description": "Přehled klíčových faktů o větrných elektrárnách. Výhody, nevýhody, výkon i dopady na životní prostředí.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "dostupných na stránkách csve.cz",
+        "href": "https://www.csve.cz/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Větrné elektrárny",
+      "O větrných elektrárnách",
+      "Jak se získává energie z větru?",
+      "Na čem závisí výkon větrné elektrárny?",
+      "Fakta",
+      "",
+      "Jaká je energetická návratnost větrných elektráren?",
+      "Máme v Česku pro větrné elektrárny vhodný vítr?",
+      "Jak hlučná je větrná elektrárna?",
+      "Jaký vliv má větrná elektrárna na zvířata a ptáky?",
+      "Co se s větrnou elektrárnou stane, až doslouží?",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-4de063ab9f2f.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"d1f5c56e1450d8471343fa2cef704b7a\"}",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Větrné elektrárnyO větrných elektrárnáchJak se získává energie z větru?Větrná elektrárna funguje na principu přeměny kinetické energie větru na elektrickou energii. Vítr roztáčí lopatky turbíny, které jsou připojené k rotoru. Rotor převádí mechanickou energii na hřídel, která otáčí generátorem. Generátor pak vyrábí elektřinu. Po generátoru je ještě převodník a transformátor, které upravují napětí předtím, než elektřina putuje do sítě a ke spotřebitelům. Moderní větrné turbíny mají systém pro natáčení lopatek podle směru větru a regulaci otáček, což maximalizuje efektivitu výroby elektřiny i při proměnlivých podmínkách.Na čem závisí výkon větrné elektrárny?Výkon větrné elektrárny závisí na několika faktorech. Klíčovou roli hraje rychlost a stabilita větru; čím silnější a konstantnější vítr, tím vyšší výkon. Dalším faktorem je výška věže, která umožňuje turbíně zachytit silnější větry ve vyšších vrstvách atmosféry. Velikost a design lopatek také ovlivňují efektivitu přeměny větrné energie na elektřinu. Technologické pokroky v materiálech a řízení turbín rovněž zvyšují celkový výkon. Umístění elektrárny v optimální oblasti s dobrými větrnými podmínkami je proto zásadní.Fakta Jaká je energetická návratnost větrných elektráren? Vyplatí se? Podle výpočtů a měření potřebuje moderní větrná elektrárna jen devět měsíců, než vyprodukuje takový objem energie, která se spotřebovala na její výrobu. Při projektování se počítá s tím, že životnost zařízení je 25 let. Z toho je zřejmé, že elektrárna vyrobí mnohonásobně více energie, než se při její výrobě spotřebuje. Díky nulovým nákladům na palivo, nízké náročnosti na údržbu a spolehlivosti technologie je výroba energie z větru spolu s energií ze slunce nejlevnější ze všech nově stavěných zdrojů. Tím, že v České republice v dohledné době určitě nepřestane foukat, jedná se o spolehlivý, obnovitelný a finančně výhodný zdroj energie. Máme v Česku pro větrné elektrárny vhodný vítr? Fouká tady dost? V České republice stojí přes 200 větrných elektráren, které pokrývají zhruba 1 % celkové spotřeby elektřiny. Pro srovnání – sousední Polsko pokrývá už nyní z větru 13 % své spotřeby a vnitrozemské Rakousko 14 %. Lidé si proto často myslí, že tady více elektráren není, protože nemáme dost větru. To ale není pravda. Důvodem byla zejména nízká podpora pro čisté zdroje ze strany státu v minulé dekádě. To se však zásadně změnilo a větrných elektráren bude postupně přibývat. Potenciál větru je v České republice vysoký. Větrná energetika by teoreticky mohla pokrýt sto procent české spotřeby elektřiny. Je ale třeba respektovat přísné hlukové limity a zohlednit faktory, jako je vyloučení výstavby ve zvláště chráněných územích. Větrné elektrárny by tak – po zohlednění všech limitů – byly schopny zajistit až třetinu aktuální roční spotřeby elektřiny v Česku. V obecné rovině lze říct, že stavět větrné elektrárny v krajině se vyplatí v místech, kde naměříme ve stometrvé výšce průměrnou rychlost větru 6 metrů za vteřinu a více. A že takových míst není málo, to je vidět v přiložené mapě. Jak hlučná je větrná elektrárna? Hluku se lidé v souvislosti s větrnými elektrárnami často bojí, což může být důsledkem špatných zkušeností s prvními prototypy turbín z počátku devadesátých let. Díky technologickému pokroku jsou však současné elektrárny nesrovnatelně tišší. Povolené hladiny hluku v místě nejbližší budovy jsou podle českých zákonů na úrovni 50 decibelů přes den a 40 decibelů v noci. Tato norma je jednou z nejpřísnějších v EU a moderní větrné elektrárny ji splňují zcela bez problémů při dodržení správných vzdáleností od obydlí, obvykle kolem 800 metrů. Moderní větrné elektrárny se vyznačují konstrukcí, která zajišťuje nízkou hladinu hluku bez ohledu na velikost, a to díky optimalizaci rychlosti rotace a konfiguraci elektrárny. Tím umožňují, že i při menších vzdálenostech od nejbližších obydlí, například 500 metrů, již mohou splňovat hygienické limity. Hluková hladina moderní větrné elektrárny na této vzdálenosti může být srovnatelná s hlukem v obývacím pokoji. Vždy však záleží na konkrétním terénu a každý projekt je nutné vyhodnocovat individuálně. Agentura ochrany přírody a krajiny ČR uvádí srovnání, že les ve vzdálenosti 200 metrů vydává při rychlosti větru 6–7 metrů za sekundu přibližně stejný hluk jako větrná elektrárna ve stejné vzdálenosti. Jaký vliv má větrná elektrárna na zvířata a ptáky? Zvířata žijící na zemi si na větrné elektrárny snadno zvyknou. Potvrzují to například zkušenosti myslivců či zemědělců z míst, kde již větrníky stojí. Situace s ptáky a netopýry je samozřejmě složitější. I proto patří vliv větrných elektráren na ptactvo a populace netopýrů k nejpodrobněji zkoumaným environmentálním aspektům této technologie. Možný vliv na živočichy je u každého projektu podrobně zkoumán a posuzován v tzv. procesu EIA. Díky moderním technologiím a rozvoji poznání umíme lépe určit, kde stavět, aby větrné parky nestály v trasách migračních tahů či nocovišť. Účinná se ukazují i další opatření, jako například obarvení lopatek či instalace radarů, které umí rozeznat siluetu velkých dravých ptáků a elektrárnu vypnout. Čísla v každém případě ukazují, že větrné elektrárny jsou pro ptáky mnohem méně nebezpečné než prosklené budovy, kočky či automobily. Co se s větrnou elektrárnou stane, až doslouží? Lze ji recyklovat? Životnost větrné elektrárny je 25 let a je z 88–90 procent recyklovatelná. Po ukončení provozu a likvidaci větrné elektrárny bude místo zcela v původním stavu, bez jakýchkoliv trvalých změn, které jsou naopak nedílnou součástí například důlní činnosti. Kromě úplného odstranění elektrárny a uvedení místa do původní podoby přichází také v úvahu takzvaný repowering, kdy je starší a vysloužilá větrná elektrárna nahrazena na původním místě elektrárnou novou. * Informace v této sekci vycházejí z materiálů dostupných na stránkách csve.cz, kde naleznete také další podrobné informace o větrných elektrárnách. Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/zeleny-vodik",
+    "key": "zeleny-vodik",
+    "title": "Zelený vodík | Budoucnost čisté energie - Power-pro.cz",
+    "description": "Zelený vodík jako klíč k udržitelné energetice. Vysvětlujeme jeho výrobu, využití a potenciál pro firmy i průmysl.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Druhy vodíku ➜",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "",
+        "href": "https://tonbo.savana-hosting.cz/"
+      },
+      {
+        "text": "Co umíme ➜",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Zelený vodík",
+      "Druhy vodíku ➜",
+      "Co umíme ➜",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-b779b718906c.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"e15d46623bdd92c8b4d3d4304fa4e6d5\"}",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Zelený vodíkDruhy vodíku ➜Vodík má různé podoby podle způsobu výroby. Zelený vodík z obnovitelných zdrojů je čisté a bezemisní řešení budoucnosti.Co umíme ➜V oblasti zeleného vodíku zajišťujeme projektování, technické návrhy i detailní dopočty jednotlivých řešení. Navazujeme na kvalitní vstupní podklady a přetváříme je v funkční, realizovatelný a ekonomicky smysluplný projekt. Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/zeleny-vodik/druhy-zeleneho-vodiku",
+    "key": "zeleny-vodik__druhy-zeleneho-vodiku",
+    "title": "Druhy vodíku | Zelený, modrý a šedý vodík - Power-pro.cz",
+    "description": "Přehled druhů vodíku a jejich rozdílů. Zjistěte, co znamená zelený, modrý a šedý vodík a jaký mají dopad na životní prostředí.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Kontaktujte nás",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Zelený vodík",
+      "Vodík může mít mnoho „barev\"...",
+      "S čím Vám pomůžeme",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-d55bfaa9fc8a.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"62757356ebdc2852fc51a35e3fd46e49\"}",
+      " ",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Zelený vodík Vodík může mít mnoho „barev\"... Černý vodík je nejméně ekologický. Vyrábí se z fosilních paliv, konkrétně z černého nebo hnědého uhlí, pomocí zplyňování. Tento proces uvolňuje velké množství skleníkových plynů a jedná se o nejméně ekologickou formu vodíku. Šedý vodík je tradiční forma vyráběná ze zemního plynu bez zachytávání emisí, při které dochází k uvolňování velkého množství CO2 do atmosféry. Je dnes ještě běžný, postupně je však nahrazován čistšími alternativami. Modrý vodík se vyrábí ze zemního plynu podobně jako šedý vodík, avšak s využitím technologií pro zachytávání vzniklého CO2. Díky tomu se výrazně snižují emise skleníkových plynů a tato forma představuje přechod mezi fosilní energetikou a budoucností založenou na obnovitelných zdrojích. Tyrkysový vodík se získává pyrolýzou metanu, při které místo CO2 vzniká pevný uhlík, jenž lze dále využít. Jde o inovativní řešení spojující efektivitu a udržitelnost. Růžový vodík představuje čistý a efektivní způsob výroby vodíku pomocí jaderné energie. Elektrolýza vody napájená elektřinou z jaderných elektráren umožňuje produkci vodíku bez emisí CO2, a to nezávisle na počasí či denní době. Zelený vodík je klíčem k čistější planetě a k nezávislosti na fosilních palivech. Vyrábí se z obnovitelných zdrojů energie a umožňuje dlouhodobě ukládat přebytečnou energii, podporovat bezemisní dopravu a zásobovat průmysl udržitelnou energií. Vzniká z vody a obnovitelných zdrojů energie – ze slunce a větru. Elektrolýzou se voda rozdělí na kyslík a vodík, který se stává čistým palivem bez emisí, připraveným k využití v dopravě, průmyslu i energetice. Žádný kouř, žádný uhlík – jen energie v nejčistší formě. S čím Vám pomůžemeZpracování případové studie a začlenění vodíkových technologií do vašeho objektu či provozu.Zaujalo Vás rozmanité využití zeleného vodíku a chcete se dozvědět o možnostech více?Kontaktujte nás Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/zeleny-vodik/co-umime",
+    "key": "zeleny-vodik__co-umime",
+    "title": "Řešení se zeleným vodíkem | Technologie a realizace - Power-pro.cz",
+    "description": "Navrhujeme a realizujeme řešení se zeleným vodíkem. Od návrhu po implementaci pro firmy a energetické projekty.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Kontaktujte nás",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Co umíme",
+      "Co umíme",
+      "S čím Vám pomůžeme",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-1bc9aa827660.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"5c9bd6e50d226363a4149cfdcb787a60\"}",
+      " ",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Co umímeCo umímeRozumíme specifikům projektů zaměřených na zelený vodík – od prvotní myšlenky až po realizaci. Nabízíme komplexní služby, které pokrývají celý proces přípravy i rozvoje projektu. Zajišťujeme zpracování projektové dokumentace, požárně bezpečnostní řešení (PBŘ) a navrhujeme optimální technická i ekonomická řešení přesně podle potřeb a možností zákazníka. Součástí naší podpory je také pomoc při hledání vhodného off-take partnera, aby měl váš projekt stabilní odběratelské zázemí a dlouhodobou perspektivu. Naším cílem je dodat funkční, bezpečné a udržitelné řešení, které dává smysl nejen technicky, ale i obchodně.S čím Vám pomůžemeZpracování případové studie a začlenění vodíkových technologií do vašeho objektu či provozu.Zaujalo Vás rozmanité využití zeleného vodíku a chcete se dozvědět o možnostech více?Kontaktujte nás Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/bateriove-uloziste",
+    "key": "bateriove-uloziste",
+    "title": "Bateriová úložiště | Efektivní ukládání energie - Power-pro.cz",
+    "description": "Navrhujeme bateriová úložiště pro firmy i domácnosti. Ukládejte energii efektivně a využívejte ji ve správný čas.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "https://www.ceps.cz/prenosova-soustava-3d/"
+      },
+      {
+        "text": "Kontaktujte nás",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Bateriové úložiště",
+      "Energie pod kontrolou, čistě a chytře",
+      "Jak fungují bateriová úložiště?",
+      "Hlavní části systému",
+      "Jak funguje přenosová soustava",
+      "Jak se udržuje výkonová rovnováha?",
+      "Pomůžeme vám s bateriovými úložišti",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-e741d670d6b7.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"88b6a31784c9e3b6da1e6d6e4685013f\"}",
+      " ",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Bateriové úložištěEnergie pod kontrolou, čistě a chytřeModerní bateriová úložiště zajišťují tolik potřebnou stabilizaci distribuční sítě, šetří náklady a umožňují maximální využití obnovitelných zdrojů. Jde o bezpečné, efektivní a chytré řešení pro energetický i výrobní průmysl. Jak fungují bateriová úložiště? ⚙️ Základní princip – fungování je podobné jako u „velké powerbanky“: Nabíjení (ukládání energie) Elektřina se ukládá do baterií (akumulátorů). Může pocházet ze sítě nebo z obnovitelných zdrojů (např. solární panely). Uložení energie Energie je uchována ve formě chemické energie uvnitř bateriových článků. Nejčastěji se používají lithium-iontové akumulátory díky vysoké účinnosti a životnosti. Vybíjení (využití energie) Když je potřeba (např. večer, při výpadku nebo vysoké ceně elektřiny), systém energii uvolní zpět. Hlavní části systému Baterie (akumulátory) Fyzicky ukládají energii. Měnič (střídač) Převádí proud (DC <--> AC), aby byl použitelný v síti i v domácnosti. Řídicí systém (BMS/EMS) Mozek celého řešení, který hlídá nabíjení, vybíjení, bezpečnost a optimalizaci provozu. Jak funguje přenosová soustavaInteraktivní aplikace Přenosová soustava 3D přehledně ukazuje, jak funguje česká elektroenergetická síť. V 3D modelu si můžeš prohlédnout vedení vysokého napětí, rozvodny i další klíčové prvky přenosové soustavy z různých úhlů. Projekt připravil ČEPS, provozovatel české přenosové soustavy.Jak se udržuje výkonová rovnováha?Elektrizační soustava musí být v každém okamžiku v rovnováze – výroba elektřiny musí přesně odpovídat aktuální spotřebě. Jakmile dojde k výkyvu, je nutné okamžitě zasáhnout, aby zůstala síť stabilní a bezpečná. Jak tento proces probíhá v praxi a kdo za něj odpovídá, se dozvíte ve videu níže.Pomůžeme vám s bateriovými úložištiChcete se dozvědět více o možnostech bateriových úložišť? Kontaktujte nás Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/aktuality",
+    "key": "aktuality",
+    "title": "Aktuality | Novinky z oblasti energetiky - Power-pro.cz",
+    "description": "Sledujte aktuální novinky z oblasti energetiky, obnovitelných zdrojů a moderních technologií. Přehled trendů, inovací a projektů.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Číst článek",
+        "href": "https://www.csve.cz/snemovna-schvalila-zakon-o-urychleni-rozvoje-obnovitelnych-zdroju-energie/"
+      },
+      {
+        "text": "Číst článek",
+        "href": "https://www.csve.cz/vetrne-elektrarny-nesnizuji-ceny-nemovitosti-prvni-analyza-z-ceska-obavy-vyvraci/"
+      },
+      {
+        "text": "Číst článek",
+        "href": "https://www.csve.cz/lesy-cr-a-komora-oze-uzavrely-memorandum-o-spolupraci-na-rozvoji-obnovitelnych-zdroju/"
+      },
+      {
+        "text": "dostupných na stránkách csve.cz",
+        "href": "https://www.csve.cz/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Aktuality",
+      "Podcasty",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-545d58f59369.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"0c2800c2d2fb00125802143b7daab31c\"}",
+      " ",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "AktualitySněmovna schválila Zákon o urychlení rozvoje obnovitelných zdrojů energieČeská republika se dlouhodobě potýká s jedním z nejpomalejších povolovacích procesů pro obnovitelné zdroje energie (OZE) v Evropě...Číst článekVětrné elektrárny nesnižují ceny nemovitostí. První analýza z Česka obavy vyvracíPřítomnost větrných elektráren v obcích nemá negativní vliv na ceny nemovitostí...Číst článekLesy ČR a Komora OZE uzavřely memorandum o spolupráci na rozvoji obnovitelných zdrojůSpolupráce s respektem k veřejnému majetku a férovým podmínkám pro všechny...Číst článekPodcastyÚvod do zeleného vodíkuTechnologie, ukládání a transport* Informace v této sekci vycházejí z materiálů dostupných na stránkách csve.cz, kde naleznete také další podrobné informace o větrných elektrárnách. Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/proc-s-nami",
+    "key": "proc-s-nami",
+    "title": "Proč s námi | Power Pro – spolehlivý partner v energetice - Power-pro.cz",
+    "description": "Proč si vybrat Power Pro? Nabízíme odborné know-how, individuální přístup a moderní energetická řešení na míru.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Proč s námi",
+      "POWER PRO",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-860ca1a80478.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"},\"csrf.token\":\"9a2925a377fe080eb80f50b748c8322b\"}",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "Proč s námiPOWER PROMáte nápad na místo pro stavbu elektrárny, nebo bateriového úložiště, ale nevíte jak začít?Potřebujete pomoci s financováním?Máte projekt, který nabírá zpoždění a potřebujete pomoci?Vlastníte firmu a chcete poradit s energetickým řešením?Pak jsme tu pro vás!! ZDARMA uděláme konzultaci a navrhneme řešení. Zahrňte nás v jakékoliv fázi projektu, poradíme si. Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/kontakt",
+    "key": "kontakt",
+    "title": "Kontakt - Power-pro.cz",
+    "description": "Kontaktujte nás a získejte nezávaznou konzultaci. Navrhneme vám ideální energetické řešení.",
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "info@power-pro.cz",
+        "href": "/info@power-pro.cz"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "https://power-pro.cz/vetrne-elektrarny"
+      },
+      {
+        "text": "Bateriová úložiště",
+        "href": "https://power-pro.cz/bateriove-uloziste"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "https://power-pro.cz/zeleny-vodik"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://power-pro.cz/kontakt"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "https://power-pro.cz/proc-s-nami"
+      },
+      {
+        "text": "Aktuality",
+        "href": "https://power-pro.cz/aktuality"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Úvod",
+        "href": "/"
+      },
+      {
+        "text": "Větrné elektrárny",
+        "href": "/vetrne-elektrarny"
+      },
+      {
+        "text": "Realizace měření větru",
+        "href": "/vetrne-elektrarny/realizace-mereni-vetru"
+      },
+      {
+        "text": "O větrných elektrárnách",
+        "href": "/vetrne-elektrarny/o-vetrnych-elektrarnach"
+      },
+      {
+        "text": "Zelený vodík",
+        "href": "/zeleny-vodik"
+      },
+      {
+        "text": "Druhy zeleného vodíku",
+        "href": "/zeleny-vodik/druhy-zeleneho-vodiku"
+      },
+      {
+        "text": "Co umíme",
+        "href": "/zeleny-vodik/co-umime"
+      },
+      {
+        "text": "Bateriové úložiště",
+        "href": "/bateriove-uloziste"
+      },
+      {
+        "text": "Aktuality",
+        "href": "/aktuality"
+      },
+      {
+        "text": "Proč s námi",
+        "href": "/proc-s-nami"
+      },
+      {
+        "text": "Kontakt",
+        "href": "/kontakt"
+      },
+      {
+        "text": "",
+        "href": "#"
+      }
+    ],
+    "headings": [
+      "Kontakt",
+      "Adresa",
+      "Telefon",
+      "E-mail",
+      "Kontakt",
+      "Rychlé odkazy",
+      "O nás"
+    ],
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "https://fonts.googleapis.com/css?family=\"Chivo\":100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap",
+      "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "/components/com_sppagebuilder/assets/css/leaflet.css",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-177424ae2ace.css"
+    ],
+    "inlineStyles": [
+      "@media(min-width: 1400px) {.sppb-row-container { max-width: 1320px; }}",
+      ".logo-image {height:90px;}.logo-image-phone {height:90px;}",
+      "@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      "@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}",
+      ":root {--sppb-topbar-bg-color: #333333; --sppb-topbar-text-color: #8A94A0; --sppb-logo-text-color: #ffffff; --sppb-menu-text-color: #ffffff; --sppb-menu-text-hover-color: #f0f0f0; --sppb-menu-text-active-color: #cfcfcf; --sppb-menu-dropdown-text-color: #ffffff; --sppb-menu-dropdown-text-hover-color: #e3e3e3; --sppb-menu-dropdown-text-active-color: #cfcfcf; --sppb-bg-color: #FFFFFF; --sppb-link-color: #6B86A1; --sppb-link-hover-color: #556F89; --sppb-footer-bg-color: #171717; --sppb-footer-text-color: #FFFFFF; --sppb-footer-link-color: #9FB4C8; --sppb-footer-link-hover-color: #6B86A1}"
+    ],
+    "scripts": [
+      "{\"csrf.token\":\"8d69c94b1813b6812b2a032a682be3c4\",\"data\":{\"breakpoints\":{\"tablet\":991,\"mobile\":480},\"header\":{\"stickyOffset\":\"100\"}},\"joomla.jtext\":{\"ERROR\":\"Chyba\",\"MESSAGE\":\"Obsah zprávy\",\"NOTICE\":\"Oznámení\",\"WARNING\":\"Varování\",\"JCLOSE\":\"Zavřít\",\"JOK\":\"OK\",\"JOPEN\":\"Otevřít\"},\"system.paths\":{\"root\":\"\",\"rootFull\":\"https:\\/\\/power-pro.cz\\/\",\"base\":\"\",\"baseFull\":\"https:\\/\\/power-pro.cz\\/\"}}",
+      ";(function ($) {\n\t$.ajaxSetup({\n\t\theaders: {\n\t\t\t'X-CSRF-Token': Joomla.getOptions('csrf.token')\n\t\t}\n\t});\n})(jQuery);",
+      "template=\"shaper_helixultimate\";",
+      "\n\t\t\t\tdocument.addEventListener(\"DOMContentLoaded\", () =>{\n\t\t\t\t\twindow.htmlAddContent = window?.htmlAddContent || \"\";\n\t\t\t\t\tif (window.htmlAddContent) {\n        \t\t\t\tdocument.body.insertAdjacentHTML(\"beforeend\", window.htmlAddContent);\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t",
+      "\n\t\t\tconst initColorMode = () => {\n\t\t\t\tconst colorVariableData = [];\n\t\t\t\tconst sppbColorVariablePrefix = \"--sppb\";\n\t\t\t\tlet activeColorMode = localStorage.getItem(\"sppbActiveColorMode\") || \"\";\n\t\t\t\tactiveColorMode = \"\";\n\t\t\t\tconst modes = [];\n\n\t\t\t\tif(!modes?.includes(activeColorMode)) {\n\t\t\t\t\tactiveColorMode = \"\";\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tdocument?.body?.setAttribute(\"data-sppb-color-mode\", activeColorMode);\n\n\t\t\t\tif (!localStorage.getItem(\"sppbActiveColorMode\")) {\n\t\t\t\t\tlocalStorage.setItem(\"sppbActiveColorMode\", activeColorMode);\n\t\t\t\t}\n\n\t\t\t\tif (window.sppbColorVariables) {\n\t\t\t\t\tconst colorVariables = typeof(window.sppbColorVariables) === \"string\" ? JSON.parse(window.sppbColorVariables) : window.sppbColorVariables;\n\n\t\t\t\t\tfor (const colorVariable of colorVariables) {\n\t\t\t\t\t\tconst { path, value } = colorVariable;\n\t\t\t\t\t\tconst variable = String(path[0]).trim().toLowerCase().replaceAll(\" \", \"-\");\n\t\t\t\t\t\tconst mode = path[1];\n\t\t\t\t\t\tconst variableName = `${sppbColorVariablePrefix}-${variable}`;\n\n\t\t\t\t\t\tif (activeColorMode === mode) {\n\t\t\t\t\t\t\tcolorVariableData.push(`${variableName}: ${value}`);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.documentElement.style.cssText += colorVariableData.join(\";\");\n\t\t\t\t}\n\t\t\t};\n\n\t\t\twindow.sppbColorVariables = [];\n\t\t\t\n\t\t\tinitColorMode();\n\n\t\t\tdocument.addEventListener(\"DOMContentLoaded\", initColorMode);\n\t\t"
+    ],
+    "text": "KontaktJméno *Prosím vyplňte toto pole.E-mail *Prosím vyplňte toto pole.PředmětPožadovaná službaVyberteVětrné elektrárnyZelený vodíkBateriové úložištěVaše zprávaPHAgc3R5bGU9Im1hcmdpbjowIDAgMTZweCAwOyI+RG9icsO9IGRlbiw8L3A+Cgo8cCBzdHlsZT0ibWFyZ2luOjAgMCAxNnB4IDA7Ij4KZMSba3VqZW1lIHphIFZhxaFpIHpwcsOhdnUgemFzbGFub3UgcHJvc3TFmWVkbmljdHbDrW0ga29udGFrdG7DrWhvIGZvcm11bMOhxZllCm5hIHdlYnUgPHN0cm9uZz4gcG93ZXItcHJvLmN6PC9zdHJvbmc+Lgo8L3A+Cgo8cCBzdHlsZT0ibWFyZ2luOjAgMCAyNHB4IDA7Ij4KTsOtxb5lIHV2w6Fkw61tZSBzaHJudXTDrSBWw6FtaSBvZGVzbGFuw71jaCDDumRhasWvOgo8L3A+Cgo8aHIgc3R5bGU9ImJvcmRlcjpub25lO2JvcmRlci10b3A6MXB4IHNvbGlkICNlMGUwZTA7bWFyZ2luOjI0cHggMDsiPgoKPHAgc3R5bGU9Im1hcmdpbjowIDAgMjBweCAwOyI+CjxzdHJvbmc+Sm3DqW5vOjwvc3Ryb25nPjxicj4Ke3tmdWxsLW5hbWV9fQo8L3A+Cgo8cCBzdHlsZT0ibWFyZ2luOjAgMCAyMHB4IDA7Ij4KPHN0cm9uZz5QxZllZG3Em3Q6PC9zdHJvbmc+PGJyPgp7e3N1YmplY3R9fQo8L3A+Cgo8cCBzdHlsZT0ibWFyZ2luOjAgMCAyMHB4IDA7Ij4KPHN0cm9uZz5FLW1haWw6PC9zdHJvbmc+PGJyPgo8YSBocmVmPSJtYWlsdG86e3tlbWFpbH19Ij57e2VtYWlsfX08L2E+CjwvcD4KCjxwIHN0eWxlPSJtYXJnaW46MCAwIDIwcHggMDsiPgo8c3Ryb25nPiBQb8W+YWRvdmFuw6Egc2x1xb5iYTo8L3N0cm9uZz48YnI+Cnt7c2VydmlzfX0KPC9wPgoKPHAgc3R5bGU9Im1hcmdpbjowIDAgMCAwOyI+CjxzdHJvbmc+WnByw6F2YTo8L3N0cm9uZz48YnI+Cnt7bWVzc2FnZX19CjwvcD4KCjxociBzdHlsZT0iYm9yZGVyOm5vbmU7Ym9yZGVyLXRvcDoxcHggc29saWQgI2UwZTBlMDttYXJnaW46MjRweCAwOyI+Cg==3 + 4 = ? (Ověření proti spamu) Odeslat AdresaČervený Kříž 286586 01 JihlavaTelefon+420 702 204 789 Miloslav KočíBusiness developmentE-mailinfo@power-pro.cz Kontakt Červený Kříž 286, 586 01 Jihlava +420 702 204 789 ✉ info@power-pro.cz Rychlé odkazy Větrné elektrárny Bateriová úložiště Zelený vodík O nás Kontakt Proč s námi Aktuality Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena."
+  },
+  {
+    "route": "/e-mail-podekovani",
+    "key": "e-mail-podekovani",
+    "title": "E-mail poděkování - Power-pro.cz",
+    "description": "",
+    "styles": [
+      "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "/components/com_sppagebuilder/assets/css/animate.min.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/sppagebuilder.css?13bea3cde590997c1094f9bba14d719a",
+      "/components/com_sppagebuilder/assets/css/dynamic-content.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/fg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoa4xucx/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/km/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icottf8gd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovymsqd/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoiqrzzi/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/pdasjlc6/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/sr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icogxmqnp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomvcsup/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorlvndh/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoymealg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoqjifbt/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoetkcxg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icolhuhij/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxivaxw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icomxdhzu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoafxxfe/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozxanau/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotbjfge/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoxwkdqy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icorqwgjn/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icodlwvhg/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoguxatr/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icotwkgoy/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoathfkw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_paepdw/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/shxt_fkzlsq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoaexhwc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoyocwdu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icokdebgl/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icojkxang/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozrxwwq/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icozjsavb/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoofsdtp/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icowimddc/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icovkpiun/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icostpbyf/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/com_sppagebuilder/assets/iconfont/icoixrmcu/style.css?13bea3cde590997c1094f9bba14d719a",
+      "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "/plugins/system/helixultimate/assets/css/chosen.css",
+      "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "/media/system/css/joomla-fontawesome.min.css?eee376",
+      "/templates/shaper_helixultimate/css/template.css",
+      "/templates/shaper_helixultimate/css/presets/preset2.css",
+      "/templates/shaper_helixultimate/css/custom.css",
+      "/media/com_sppagebuilder/assets/google-fonts/Hind/stylesheet.css",
+      "/components/com_sppagebuilder/assets/css/color-switcher.css?13bea3cde590997c1094f9bba14d719a",
+      "/media/sppb-css/page-cef3280d3297.css"
+    ]
+  }
+]

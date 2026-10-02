@@ -1,0 +1,251 @@
+
+ Větrné elektrárnyRealizace měření větruWindCube 2.1 XP – Jak měří vítr
+WindCube je založen na principu pulzního Dopplerovského heterodynového laseru. Vysílá do atmosféry světelné pulzy a měří signál odražený od aerosolů přirozeně přítomných ve vzduchu. Z časového posunu a Dopplerova jevu pak vypočítá přesnou rychlost a směr větru. Přesnost měření není ovlivněna oblačností, mlhou, prachem ani překážkami v okolí.
+Proč právě WindCube 2.1 XP
+IP66 / IP67 | Krytí pro každé počasí35 W | Nízká spotřeba – vhodné i pro solární napájení5 let | Standardní záruka (rozšiřitelná až na 10 let)40 → 400+ m | Měřicí rozsah výšky0,1 m/s | Přesnost rychlosti větru2° | Přesnost směru větru
+.wc-feature-card{
+ background:#fff;
+ border:1px solid #e6ecf3;
+ border-radius:12px;
+ padding:28px;
+ box-shadow:0 4px 18px rgba(31,45,61,.04);
+ height:100%;
+}
+.wc-feature-card .wc-img{
+ width:54px;
+ height:54px;
+ border-radius:12px;
+ object-fit:cover;
+ display:block;
+ margin-bottom:16px;
+ background:#eef2f6;
+}
+.wc-feature-card h3{
+ font-size:1.15rem;
+ color:#1f2d3d;
+ margin:0 0 10px;
+}
+.wc-feature-card p{
+ color:#5a6b7d;
+ margin:0;
+ font-size:.95rem;
+ line-height:1.55;
+}
+ Pulzní laserová technologie
+ Vysoká frekvence pulzů a analýza Dopplerova posunu před vysláním dalšího pulzu zajišťují konstantní prostorové rozlišení po celém profilu měření.
+.wc-feature-card{
+ background:#fff;
+ border:1px solid #e6ecf3;
+ border-radius:12px;
+ padding:28px;
+ box-shadow:0 4px 18px rgba(31,45,61,.04);
+ height:100%;
+}
+.wc-feature-card .wc-img{
+ width:54px;
+ height:54px;
+ border-radius:12px;
+ object-fit:cover;
+ display:block;
+ margin-bottom:16px;
+ background:#eef2f6;
+}
+.wc-feature-card h3{
+ font-size:1.15rem;
+ color:#1f2d3d;
+ margin:0 0 10px;
+}
+.wc-feature-card p{
+ color:#5a6b7d;
+ margin:0;
+ font-size:.95rem;
+ line-height:1.55;
+}
+4 šikmé + 1 vertikální paprsek
+Geometrie 4 paprsků nakloněných pod úhlem 28° doplněná o vertikální paprsek umožňuje přímé měření vertikální složky rychlosti a přesný výpočet turbulence.
+.wc-feature-card{
+ background:#fff;
+ border:1px solid #e6ecf3;
+ border-radius:12px;
+ padding:28px;
+ box-shadow:0 4px 18px rgba(31,45,61,.04);
+ height:100%;
+}
+.wc-feature-card .wc-img{
+ width:54px;
+ height:54px;
+ border-radius:12px;
+ object-fit:cover;
+ display:block;
+ margin-bottom:16px;
+ background:#eef2f6;
+}
+.wc-feature-card h3{
+ font-size:1.15rem;
+ color:#1f2d3d;
+ margin:0 0 10px;
+}
+.wc-feature-card p{
+ color:#5a6b7d;
+ margin:0;
+ font-size:.95rem;
+ line-height:1.55;
+}
+20 výšek současně
+V jeden okamžik měříte rychlost, směr a turbulenci větru až ve dvaceti uživatelsky definovaných výškách od 40 m do více než 400 m – a to vše s vysokou vzorkovací frekvencí 1 Hz.
+Ke stažení
+.wc-dl-card{
+ display:flex;align-items:center;gap:18px;
+ background:#fff;border:1px solid #e6ecf3;border-radius:12px;
+ padding:22px;text-decoration:none;color:inherit;
+ max-width:560px;
+ transition:transform .2s,box-shadow .2s,border-color .2s;
+}
+.wc-dl-card:hover{
+ transform:translateY(-3px);
+ box-shadow:0 14px 32px rgba(31,45,61,.10);
+ border-color:#6B86A1;color:inherit;text-decoration:none;
+}
+.wc-dl-icon{
+ flex:0 0 56px;width:56px;height:68px;
+ background:linear-gradient(135deg,#6B86A1,#3a5774);
+ color:#fff;border-radius:8px;
+ display:flex;align-items:center;justify-content:center;
+ font-weight:700;font-size:.72rem;letter-spacing:.05em;
+ position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35);
+}
+.wc-dl-icon::after{
+ content:"";position:absolute;top:0;right:0;
+ width:14px;height:14px;
+ background:linear-gradient(225deg,#fff 50%,transparent 50%);
+ border-radius:0 8px 0 4px;
+}
+.wc-dl-body{flex:1;min-width:0;}
+.wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;}
+.wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;}
+.wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;}
+.wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);}
+ PDF
+ Datasheet WindCube V2.1 XP
+ Technická specifikace · PDF
+ ↓
+.wc-dl-card{
+ display:flex;align-items:center;gap:18px;
+ background:#fff;border:1px solid #e6ecf3;border-radius:12px;
+ padding:22px;text-decoration:none;color:inherit;
+ max-width:560px;
+ transition:transform .2s,box-shadow .2s,border-color .2s;
+}
+.wc-dl-card:hover{
+ transform:translateY(-3px);
+ box-shadow:0 14px 32px rgba(31,45,61,.10);
+ border-color:#6B86A1;color:inherit;text-decoration:none;
+}
+.wc-dl-icon{
+ flex:0 0 56px;width:56px;height:68px;
+ background:linear-gradient(135deg,#6B86A1,#3a5774);
+ color:#fff;border-radius:8px;
+ display:flex;align-items:center;justify-content:center;
+ font-weight:700;font-size:.72rem;letter-spacing:.05em;
+ position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35);
+}
+.wc-dl-icon::after{
+ content:"";position:absolute;top:0;right:0;
+ width:14px;height:14px;
+ background:linear-gradient(225deg,#fff 50%,transparent 50%);
+ border-radius:0 8px 0 4px;
+}
+.wc-dl-body{flex:1;min-width:0;}
+.wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;}
+.wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;}
+.wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;}
+.wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);}
+ PDF
+ Produktová prezentace V2.1 XP
+ Produktová prezentace · PDF
+ ↓
+.wc-dl-card{
+ display:flex;align-items:center;gap:18px;
+ background:#fff;border:1px solid #e6ecf3;border-radius:12px;
+ padding:22px;text-decoration:none;color:inherit;
+ max-width:560px;
+ transition:transform .2s,box-shadow .2s,border-color .2s;
+}
+.wc-dl-card:hover{
+ transform:translateY(-3px);
+ box-shadow:0 14px 32px rgba(31,45,61,.10);
+ border-color:#6B86A1;color:inherit;text-decoration:none;
+}
+.wc-dl-icon{
+ flex:0 0 56px;width:56px;height:68px;
+ background:linear-gradient(135deg,#6B86A1,#3a5774);
+ color:#fff;border-radius:8px;
+ display:flex;align-items:center;justify-content:center;
+ font-weight:700;font-size:.72rem;letter-spacing:.05em;
+ position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35);
+}
+.wc-dl-icon::after{
+ content:"";position:absolute;top:0;right:0;
+ width:14px;height:14px;
+ background:linear-gradient(225deg,#fff 50%,transparent 50%);
+ border-radius:0 8px 0 4px;
+}
+.wc-dl-body{flex:1;min-width:0;}
+.wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;}
+.wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;}
+.wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;}
+.wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);}
+ PDF
+ Souhrnná klasifikační zpráva V2.1 XP
+ Classification summary report V2.1 XP · PDF
+ ↓
+.wc-dl-card{
+ display:flex;align-items:center;gap:18px;
+ background:#fff;border:1px solid #e6ecf3;border-radius:12px;
+ padding:22px;text-decoration:none;color:inherit;
+ max-width:560px;
+ transition:transform .2s,box-shadow .2s,border-color .2s;
+}
+.wc-dl-card:hover{
+ transform:translateY(-3px);
+ box-shadow:0 14px 32px rgba(31,45,61,.10);
+ border-color:#6B86A1;color:inherit;text-decoration:none;
+}
+.wc-dl-icon{
+ flex:0 0 56px;width:56px;height:68px;
+ background:linear-gradient(135deg,#6B86A1,#3a5774);
+ color:#fff;border-radius:8px;
+ display:flex;align-items:center;justify-content:center;
+ font-weight:700;font-size:.72rem;letter-spacing:.05em;
+ position:relative;box-shadow:0 6px 14px rgba(107,134,161,.35);
+}
+.wc-dl-icon::after{
+ content:"";position:absolute;top:0;right:0;
+ width:14px;height:14px;
+ background:linear-gradient(225deg,#fff 50%,transparent 50%);
+ border-radius:0 8px 0 4px;
+}
+.wc-dl-body{flex:1;min-width:0;}
+.wc-dl-body .t{font-size:1.05rem;font-weight:600;color:#1f2d3d;margin:0 0 4px;line-height:1.3;}
+.wc-dl-body .m{font-size:.85rem;color:#6b7c8e;margin:0;}
+.wc-dl-arrow{color:#6B86A1;font-size:1.6rem;font-weight:300;transition:transform .2s;}
+.wc-dl-card:hover .wc-dl-arrow{transform:translateX(4px);}
+ PDF
+ Technické oprávnění od výrobce WindCube V2.1 XP
+ Declaration from Manufacturer · PDF
+ ↓
+ Kontakt
+ Červený Kříž 286, 586 01 Jihlava
+ +420 702 204 789
+ ✉
+ info@power-pro.cz
+ Rychlé odkazy
+ Větrné elektrárny
+ Bateriová úložiště
+ Zelený vodík
+ O nás
+ Kontakt
+Proč s námi
+Aktuality
+Váš partner v oblasti obnovitelné energie. Společně tvoříme udržitelnou budoucnost.© 2026 Power Pro s.r.o. | IČO 24601594. Všechna práva vyhrazena. 
+ 

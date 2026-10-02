@@ -1,0 +1,2 @@
+import fs from 'node:fs/promises';
+for(const root of ['F:/Projects/Weby/Power-pro-web','F:/Projects/Weby/Powerdrive-web']) for(const name of await fs.readdir(root+'/content/pages')){if(!name.endsWith('.tsx'))continue;const file=root+'/content/pages/'+name;let code=await fs.readFile(file,'utf8');for(const component of ['ContactForm','ContactMap','PartnerCarousel'])if((code.match(new RegExp('\\b'+component+'\\b','g'))||[]).length===2)code=code.replace(new RegExp('import '+component+' from [^\\n]+\\n'),'');await fs.writeFile(file,code);}

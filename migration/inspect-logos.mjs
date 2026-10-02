@@ -1,0 +1,1 @@
+import fs from 'node:fs/promises';import {load} from 'cheerio';let $=load(await fs.readFile('F:/Projects/Weby/Powerdrive-web/migration/source/home.html','utf8'));console.log($('.sppb-addon-clients img').map((_,e)=>e.attribs).get());
