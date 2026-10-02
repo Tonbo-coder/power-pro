@@ -7,3 +7,4 @@ out/
 .local-mail/
 *.log
 migration/node_modules/
+.vercel/

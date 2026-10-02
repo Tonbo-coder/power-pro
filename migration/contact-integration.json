@@ -1,8 +1,9 @@
 {
-  "checkedAt": "2026-09-27T20:38:04.405Z",
+  "checkedAt": "2026-10-02T22:40:38.836Z",
   "site": "pro",
   "checks": [
     "cross-origin request rejected",
+    "configured Vercel origin accepted and unrelated deployments rejected",
     "unsupported content type rejected",
     "malformed JSON rejected",
     "invalid input rejected",

@@ -32,3 +32,7 @@ V každém projektu: `npm run typecheck`, `npm test`, `npm run build`, `npm run 
 Souhrnná kontrola obou webů se spouští z projektu Power Pro, za běžících náhledů na portech 3000 a 3001: `node migration/verify.mjs`. Používá pomocné závislosti z `migration/package.json` (při nové instalaci: `npm ci --prefix migration`). Zapisuje do `migration/verification.json` v obou projektech. Migrační importéry se pro běžné úpravy nespouštějí.
 
 Snímky původního webu: `migration/reference/`. Nové snímky a recenze: `.impeccable/review/`. Dokumentace úprav: `EDITING.md`, pravidla zachovaného vzhledu: `DESIGN.md`.
+
+## Doplněk: Vercel, 3. 10. 2026
+
+Oba GitHub repozitáře byly propojené s vlastními projekty ve Vercel týmu `tonbo-coders-projects`. Nastavení je v `DEPLOYMENT.md`. Pro Vercel byly doplněné přesné povolené adresy formuláře a samostatné tajné podpisové klíče. Po této změně oba projekty prošly sestavením, TypeScriptem, 6 jednotkovými a 9 integračními kontrolami. SMTP údaje a přepnutí původních domén zůstávají samostatnými kroky.

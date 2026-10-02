@@ -1,14 +1,14 @@
 import { NextRequest, NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 import { createHash } from "node:crypto";
-import { allowRequest, createChallenge, validateContact } from "@/lib/contact.mjs";
+import { allowRequest, allowedContactOrigins, createChallenge, validateContact } from "@/lib/contact.mjs";
 import site from "@/content/site.json";
 export const runtime = "nodejs";
 export function GET() { return NextResponse.json(createChallenge(), { headers: { "Cache-Control": "no-store" } }); }
 export async function POST(request: NextRequest) {
   const fail = (error: string, status = 400) => NextResponse.json({ error }, { status });
   const origin = request.headers.get("origin");
-  const allowedOrigins = new Set([new URL(site.url).origin, ...(process.env.CONTACT_ALLOWED_ORIGINS || "").split(",").filter(Boolean)]);
+  const allowedOrigins = allowedContactOrigins(site.url);
   if (process.env.NODE_ENV !== "production") allowedOrigins.add(new URL(request.url).origin);
   if (!origin || !allowedOrigins.has(origin)) return fail("Požadavek pochází z nepovoleného webu.", 403);
   if (!request.headers.get("content-type")?.includes("application/json")) return fail("Neplatný formát požadavku.", 415);

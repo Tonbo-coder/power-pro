@@ -1,8 +1,15 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { createChallenge, verifyChallenge, validateContact, allowRequest } from "../lib/contact.mjs";
+import { createChallenge, verifyChallenge, validateContact, allowRequest, allowedContactOrigins } from "../lib/contact.mjs";
 
 function payload() { const challenge = createChallenge(); const [a, , b] = challenge.question.split(" "); return { name: "Test migrace", email: "test@example.com", message: "Testovací zpráva", challengeToken: challenge.token, answer: String(Number(a) + Number(b)), consent: "on" }; }
+test("only exact configured website and Vercel origins are allowed", () => {
+  const origins = allowedContactOrigins("https://power-pro.cz/contact", { CONTACT_ALLOWED_ORIGINS: " https://www.power-pro.cz, ,http://localhost:3000 ", VERCEL_URL: "project-deployment.vercel.app", VERCEL_BRANCH_URL: "project-git-main.vercel.app", VERCEL_PROJECT_PRODUCTION_URL: "project.vercel.app" });
+  assert.deepEqual([...origins], ["https://power-pro.cz", "https://www.power-pro.cz", "http://localhost:3000", "https://project-deployment.vercel.app", "https://project-git-main.vercel.app", "https://project.vercel.app"]);
+  assert.equal(origins.has("https://unrelated.vercel.app"), false);
+  assert.equal(origins.has("https://project.vercel.app.attacker.example"), false);
+  assert.deepEqual([...allowedContactOrigins("https://power-pro.cz", {})], ["https://power-pro.cz"]);
+});
 test("valid inquiry passes server validation", () => { assert.ok(validateContact(payload()).data); assert.ok(validateContact(payload(), false).data); });
 test("incorrect, altered and expired challenges fail", () => {
   const c = createChallenge(1000);

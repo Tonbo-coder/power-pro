@@ -30,7 +30,7 @@ const reservation = createServer(); reservation.listen(0, "127.0.0.1"); await on
 const port = reservation.address().port; await new Promise(resolve => reservation.close(resolve));
 const base = `http://127.0.0.1:${port}`;
 const child = spawn(process.execPath, ["node_modules/next/dist/bin/next", "start", "--hostname", "127.0.0.1", "--port", String(port)], {
-  env: { ...process.env, NODE_ENV: "production", CONTACT_MODE: "smtp", CONTACT_SECRET: "local-integration-test-only-32-characters", CONTACT_ALLOWED_ORIGINS: base,
+  env: { ...process.env, NODE_ENV: "production", CONTACT_MODE: "smtp", CONTACT_SECRET: "local-integration-test-only-32-characters", CONTACT_ALLOWED_ORIGINS: base, VERCEL_PROJECT_PRODUCTION_URL: "contact-integration.vercel.app",
     SMTP_HOST: "127.0.0.1", SMTP_PORT: String(smtp.address().port), SMTP_SECURE: "false", SMTP_USER: "sender@example.com", SMTP_PASSWORD: "test-only", CONTACT_FROM: "sender@example.com", CONTACT_TO: "recipient@example.com" },
   stdio: ["ignore", "pipe", "pipe"], windowsHide: true,
 });
@@ -43,6 +43,8 @@ try {
   const data = { name: "Integration check", email: "test@example.com", message: "Local SMTP integration check", consent: "on", challengeToken: challenge.token, answer: String(numbers[0] + numbers[1]) };
   const post = (body, origin = base, type = "application/json") => fetch(base + "/api/contact", { method: "POST", headers: { Origin: origin, "Content-Type": type }, body: typeof body === "string" ? body : JSON.stringify(body) });
   assert.equal((await post(data, "https://untrusted.example")).status, 403); checks.push("cross-origin request rejected");
+  assert.equal((await post("{", "https://contact-integration.vercel.app")).status, 400);
+  assert.equal((await post(data, "https://unrelated.vercel.app")).status, 403); checks.push("configured Vercel origin accepted and unrelated deployments rejected");
   assert.equal((await post(data, base, "text/plain")).status, 415); checks.push("unsupported content type rejected");
   assert.equal((await post("{" )).status, 400); checks.push("malformed JSON rejected");
   assert.equal((await post({ ...data, email: "invalid" })).status, 400); checks.push("invalid input rejected");

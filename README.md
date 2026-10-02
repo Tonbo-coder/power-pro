@@ -50,11 +50,13 @@ Pro ostrý provoz nastavte v prostředí hostingu:
 
 Hesla patří pouze do `.env.local` nebo prostředí hostingu. Odpověď na e-mail míří na návštěvníka pomocí Reply-To; návštěvník nemůže určovat adresáta zprávy. Server ověřuje typy a délky polí, podpis a stáří ověření, původ požadavku, honeypot a omezuje opakované požadavky. Limit je společný v rámci jednoho procesu; při více instancích doplňte společný limit na hostingu.
 
-## Pozdější nasazení
+## Nasazení
+
+Projekt je propojený s Vercel týmem `tonbo-coders-projects` a repozitářem `Tonbo-coder/power-pro`. Adresa na Vercelu je [power-pro-sage.vercel.app](https://power-pro-sage.vercel.app). Push do `main` spustí produkční nasazení; ostatní větve dostávají preview. Nastavení a zbývající kroky pro doménu a e-mail popisuje [DEPLOYMENT.md](DEPLOYMENT.md).
 
 Použijte hosting podporující Next.js/Node.js (nebo vlastní Node server za HTTPS proxy). Čistě PHP hosting bez Node aplikací neumí spustit tento formulářový endpoint. Nasazují se dva nezávislé projekty; každý má vlastní doménu a SMTP nastavení. Standardní postup je `npm ci`, `npm run build`, `npm start`. Pro jiný port použijte `npx next start --hostname 127.0.0.1 --port 3100`; veřejný HTTPS provoz směrujte přes proxy hostingu.
 
-Stránky se generují při buildu. Sitemap a robots jsou dostupné na `/sitemap.xml` a `/robots.txt`; poděkování se neindexuje. Původní URL zůstaly zachované. Produkční web nebyl tímto úkolem nasazen ani změněn.
+Stránky se generují při buildu. Sitemap a robots jsou dostupné na `/sitemap.xml` a `/robots.txt`; poděkování se neindexuje. Původní URL zůstaly zachované. Přepnutí domény `power-pro.cz` se řeší samostatně po nastavení e-mailu.
 
 ## Co bylo zachováno a opraveno
 
