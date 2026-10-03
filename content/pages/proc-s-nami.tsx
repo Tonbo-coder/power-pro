@@ -156,11 +156,11 @@ export default function Content() {
                           <div className="block-single-image-container">
                             <img
                               className="ui-img-responsive "
-                              src="/files/banners/tk_eko.jpg"
-                              alt="TK EKO"
+                              src="/files/banners/power-base-skupina.png"
+                              alt="Skupina Power Base: Power Idea, Power Pro, Power Drive a Power Control"
                               title=""
-                              width="1050"
-                              height="600"
+                              width="1609"
+                              height="769"
                               decoding="async"
                             />
                           </div>
