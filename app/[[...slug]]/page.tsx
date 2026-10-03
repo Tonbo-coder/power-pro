@@ -15,7 +15,7 @@ async function getPage(props: Props) { const { slug = [] } = await props.params;
 export async function generateMetadata(props: Props): Promise<Metadata> {
   const page = await getPage(props); if (!page) return {};
   return { title: page.title, description: page.description || undefined, alternates: { canonical: page.path },
-    openGraph: { title: page.title, description: page.description, url: page.path, siteName: site.name, locale: "cs_CZ", type: "website", images: [{ url: site.logo }] },
+    openGraph: { title: page.title, description: page.description, url: page.path, siteName: site.name, locale: "cs_CZ", type: page.ogType === "article" ? "article" : "website", images: [{ url: page.ogImage || site.logo }] },
     ...(page.key === "e-mail-podekovani" ? { robots: { index: false, follow: false } } : {}) };
 }
 export default async function Page(props: Props) {

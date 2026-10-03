@@ -25,6 +25,8 @@ Adresa firmy a souřadnice kontaktní mapy jsou v `content/site.json` v objektu 
 
 Okno s podcastem na úvodu používá `content/podcast.json`: text, Spotify odkaz, přepínač `enabled`, prodlevu `delayMs` a četnost `cooldownDays`. Výchozí prodleva je 5 sekund a další automatické zobrazení nejdříve za 7 dní; volba se pamatuje v prohlížeči. Změnou `id` lze oznámit nový podcast i návštěvníkům, kteří předchozí pozvánku už viděli. Komponenta a její vzhled jsou v `components/PodcastPopup.tsx` a `components/PodcastPopup.module.css`.
 
+Článek o měření větru pro NOHO je na `/aktuality/mereni-vetru-noho`. Jeho nadpis, perex, odstavce, odkaz na partnera a fotografie jsou v `content/articles/noho-mereni-vetru.json`. První dlaždice v `content/pages/aktuality.tsx` používá tentýž nadpis a zkrácený perex. Rozvržení článku je v `content/pages/aktuality__mereni-vetru-noho.tsx`, stránkové CSS v `public/styles/pages/aktuality__mereni-vetru-noho.css`. SEO údaje jsou v `content/pages.json`; registrace stránky automaticky přidá adresu také do sitemap.
+
 ## Příklady zadání
 
 > Na úvodu změň tento odstavec: „…“ na „…“. Zachovej rozvržení, velikosti písma a animace. Uprav pouze čitelný zdroj v content/pages/home.tsx a ověř mobilní náhled.

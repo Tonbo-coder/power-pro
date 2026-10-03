@@ -1,0 +1,21 @@
+{
+  "path": "/aktuality/mereni-vetru-noho",
+  "title": "Větrná elektrárna nezačíná stavbou. Začíná měřením.",
+  "perex": "Pro našeho partnera NOHO jsme instalovali pozemní LiDAR Vaisala WindCube 2.1., který bude během následujícího roku přesně měřit větrné podmínky v dané lokalitě.",
+  "intro": {
+    "beforePartner": "Pro našeho partnera ",
+    "partner": "NOHO",
+    "partnerUrl": "https://www.linkedin.com/company/nohoas/",
+    "afterPartner": " jsme instalovali pozemní LiDAR Vaisala WindCube 2.1., který bude během následujícího roku přesně měřit větrné podmínky v dané lokalitě."
+  },
+  "paragraphs": [
+    "Součástí dodávky je také náš vzdálený dohled a pravidelný servis měřicí technologie. Výsledkem budou spolehlivá data, která poslouží jako základ pro přípravu budoucího větrného parku.",
+    "Zajišťujeme kompletní kampaň měření větru, jejímž výsledkem jsou bankovatelná data potřebná pro získání financování projektu."
+  ],
+  "image": {
+    "src": "/files/aktuality/noho-lidar-windcube.png",
+    "alt": "LiDAR Vaisala WindCube a mobilní solární napájení v lokalitě měření větru pro NOHO",
+    "width": 1047,
+    "height": 425
+  }
+}

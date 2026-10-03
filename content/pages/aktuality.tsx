@@ -1,4 +1,6 @@
 
+import newsNoho from "@/content/articles/noho-mereni-vetru.json";
+
 /** Obsah stránky /aktuality. Upravujte přímo; původní export není za běhu používán. */
 export default function Content() {
   return (
@@ -90,6 +92,27 @@ export default function Content() {
                   <div id="aktuality-section-2-block-4" className="section">
                     <div className="ui-container-inner">
                       <div className="layout-row ui-nested-row">
+                        <div className="layout-col-md-6 news-native-grid">
+                          <div className="layout-column bg-soft-2 news-native-card">
+                            <div className="layout-column-addons">
+                              <div className="block-wrap addon-root-text-block">
+                                <div className="clearfix news-native-text">
+                                  <div className="block block-text-block">
+                                    <h2 className="block-title h4 news-native-title">{newsNoho.title}</h2>
+                                    <div className="block-content">{newsNoho.perex.slice(0, 115).trimEnd()}...</div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div className="block-wrap addon-root-button">
+                                <div className="clearfix news-native-action">
+                                  <div className="ui-button-wrapper">
+                                    <a href={newsNoho.path} className="button button-primary button-rounded" aria-label={`Číst článek: ${newsNoho.title}`}>Číst článek</a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                         <div
                           className="layout-col-md-6  "
                           id="aktuality-section-2-grid-5"
@@ -451,7 +474,7 @@ export default function Content() {
                       <div className="block block-text-block ">
                         <div className="block-content  ">
                           <p>
-                            {"* Informace v této sekci vycházejí z materiálů "}
+                            {"* Externí články v této sekci vycházejí z materiálů "}
                             <a
                               target="_blank"
                               rel=""

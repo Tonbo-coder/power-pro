@@ -133,3 +133,17 @@ line-height: 28px;
 @media(max-width: 992px) {[data-page="aktuality"] .logo-image {height: 36px;}[data-page="aktuality"] .logo-image-phone {height: 36px;}}
 @media(max-width: 576px) {[data-page="aktuality"] .logo-image {height: 36px;}[data-page="aktuality"] .logo-image-phone {height: 36px;}}
 [data-page="aktuality"] {--ui-topbar-bg-color: #333333; --ui-topbar-text-color: #8A94A0; --ui-logo-text-color: #ffffff; --ui-menu-text-color: #ffffff; --ui-menu-text-hover-color: #f0f0f0; --ui-menu-text-active-color: #cfcfcf; --ui-menu-dropdown-text-color: #ffffff; --ui-menu-dropdown-text-hover-color: #e3e3e3; --ui-menu-dropdown-text-active-color: #cfcfcf; --ui-bg-color: #FFFFFF; --ui-link-color: #6B86A1; --ui-link-hover-color: #556F89; --ui-footer-bg-color: #171717; --ui-footer-text-color: #FFFFFF; --ui-footer-link-color: #9FB4C8; --ui-footer-link-hover-color: #6B86A1}
+
+/* Nová vlastní aktualita používá stejnou sazbu a rozestupy jako převzaté dlaždice. */
+[data-page="aktuality"] .news-native-grid { max-width: 50%; flex-basis: 50%; margin-bottom: 50px; }
+[data-page="aktuality"] .news-native-card { border-radius: 15px; }
+[data-page="aktuality"] .news-native-text { padding: 65px 90px 30px; text-align: center; }
+[data-page="aktuality"] .news-native-title { margin: 0 0 15px; font-family: inherit; font-size: clamp(18px, 1.7vw, 24px); font-weight: 500; line-height: 1.25; letter-spacing: -.005em; }
+[data-page="aktuality"] .news-native-action { padding-bottom: 65px; text-align: center; }
+[data-page="aktuality"] .news-native-action .button { padding: 18px 40px; }
+@media (max-width: 991.98px) {
+  [data-page="aktuality"] .news-native-grid { max-width: 100%; flex-basis: 100%; }
+}
+@media (max-width: 767.98px) {
+  [data-page="aktuality"] .news-native-text { padding: 40px 30px 20px; }
+}

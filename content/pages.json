@@ -63,6 +63,15 @@
     "pageClass": "page-content-root  page-5 "
   },
   {
+    "path": "/aktuality/mereni-vetru-noho",
+    "key": "aktuality__mereni-vetru-noho",
+    "title": "Větrná elektrárna nezačíná stavbou. Začíná měřením. - Power-pro.cz",
+    "description": "Pro našeho partnera NOHO jsme instalovali pozemní LiDAR Vaisala WindCube 2.1., který bude během následujícího roku přesně měřit větrné podmínky v dané lokalitě.",
+    "pageClass": "page-content-root news-article-page",
+    "ogType": "article",
+    "ogImage": "/files/aktuality/noho-lidar-windcube.png"
+  },
+  {
     "path": "/proc-s-nami",
     "key": "proc-s-nami",
     "title": "Proč s námi | Power Pro – spolehlivý partner v energetice - Power-pro.cz",

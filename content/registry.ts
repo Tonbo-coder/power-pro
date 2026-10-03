@@ -10,6 +10,7 @@ import Page8 from "./pages/aktuality";
 import Page9 from "./pages/proc-s-nami";
 import Page10 from "./pages/kontakt";
 import Page11 from "./pages/e-mail-podekovani";
+import NewsNoho from "./pages/aktuality__mereni-vetru-noho";
 export const pageComponents = {
   "home": Page0,
   "vetrne-elektrarny": Page1,
@@ -20,6 +21,7 @@ export const pageComponents = {
   "zeleny-vodik__co-umime": Page6,
   "bateriove-uloziste": Page7,
   "aktuality": Page8,
+  "aktuality__mereni-vetru-noho": NewsNoho,
   "proc-s-nami": Page9,
   "kontakt": Page10,
   "e-mail-podekovani": Page11
