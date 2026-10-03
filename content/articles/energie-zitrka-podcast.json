@@ -1,0 +1,15 @@
+{
+  "path": "/aktuality/energie-zitrka-podcast",
+  "title": "Energie zítřka: podcasty o energetice a technologiích",
+  "perex": "Objevujte svět energetiky a moderních technologií prostřednictvím našich podcastů, které s pomocí AI převádějí odborné a ověřitelné zdroje do srozumitelné podoby.",
+  "paragraphs": [
+    "Ve spolupráci s AI pro vás vytváříme podcasty, které srozumitelnou formou vysvětlují zajímavá témata ze světa energetiky a moderních technologií.",
+    "Při jejich tvorbě vycházíme z odborných a ověřitelných zdrojů – oficiálních studií, technických datasheetů, norem, metodik a dalších materiálů založených na datech a faktech.",
+    "Naším cílem je zpřístupňovat informace o technologiích, které budou stále více součástí našeho každodenního života, a přispívat tak k věcné diskusi založené na znalostech namísto dezinformací a nepodložených tvrzení."
+  ],
+  "spotify": {
+    "url": "https://open.spotify.com/show/53N17blu0Vp4i9VKA6Uu4X?si=b1fa9cd5464741aa",
+    "embedUrl": "https://open.spotify.com/embed/show/53N17blu0Vp4i9VKA6Uu4X",
+    "title": "Spotify přehrávač podcastu Energie zítřka"
+  }
+}

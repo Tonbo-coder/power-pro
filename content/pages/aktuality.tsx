@@ -1,5 +1,6 @@
 
 import newsNoho from "@/content/articles/noho-mereni-vetru.json";
+import newsPodcast from "@/content/articles/energie-zitrka-podcast.json";
 
 /** Obsah stránky /aktuality. Upravujte přímo; původní export není za běhu používán. */
 export default function Content() {
@@ -92,27 +93,27 @@ export default function Content() {
                   <div id="aktuality-section-2-block-4" className="section">
                     <div className="ui-container-inner">
                       <div className="layout-row ui-nested-row">
-                        <div className="layout-col-md-6 news-native-grid">
+                        {[newsNoho, newsPodcast].map(news => <div key={news.path} className="layout-col-md-6 news-native-grid">
                           <div className="layout-column bg-soft-2 news-native-card">
                             <div className="layout-column-addons">
                               <div className="block-wrap addon-root-text-block">
                                 <div className="clearfix news-native-text">
                                   <div className="block block-text-block">
-                                    <h2 className="block-title h4 news-native-title">{newsNoho.title}</h2>
-                                    <div className="block-content">{newsNoho.perex.slice(0, 115).trimEnd()}...</div>
+                                    <h2 className="block-title h4 news-native-title">{news.title}</h2>
+                                    <div className="block-content">{news.perex.slice(0, 115).trimEnd()}...</div>
                                   </div>
                                 </div>
                               </div>
                               <div className="block-wrap addon-root-button">
                                 <div className="clearfix news-native-action">
                                   <div className="ui-button-wrapper">
-                                    <a href={newsNoho.path} className="button button-primary button-rounded" aria-label={`Číst článek: ${newsNoho.title}`}>Číst článek</a>
+                                    <a href={news.path} className="button button-primary button-rounded" aria-label={`Číst článek: ${news.title}`}>Číst článek</a>
                                   </div>
                                 </div>
                               </div>
                             </div>
                           </div>
-                        </div>
+                        </div>)}
                         <div
                           className="layout-col-md-6  "
                           id="aktuality-section-2-grid-5"

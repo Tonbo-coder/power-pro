@@ -27,6 +27,8 @@ Okno s podcastem na úvodu používá `content/podcast.json`: text, Spotify odka
 
 Článek o měření větru pro NOHO je na `/aktuality/mereni-vetru-noho`. Jeho nadpis, perex, odstavce, odkaz na partnera a fotografie jsou v `content/articles/noho-mereni-vetru.json`. První dlaždice v `content/pages/aktuality.tsx` používá tentýž nadpis a zkrácený perex. Rozvržení článku je v `content/pages/aktuality__mereni-vetru-noho.tsx`, stránkové CSS v `public/styles/pages/aktuality__mereni-vetru-noho.css`. SEO údaje jsou v `content/pages.json`; registrace stránky automaticky přidá adresu také do sitemap.
 
+Článek s podcastem Energie zítřka je na `/aktuality/energie-zitrka-podcast`. Nadpis, perex, tři odstavce a odkazy Spotify jsou v `content/articles/energie-zitrka-podcast.json`. Druhá dlaždice v Aktualitách používá stejný nadpis a zkrácený perex. Rozvržení je v `content/pages/aktuality__energie-zitrka-podcast.tsx`; vlastní styly přehrávače v `public/styles/pages/aktuality__energie-zitrka-podcast.css`. Oba vlastní články sdílejí vzhled z `public/styles/news-article.css`, načtený jejich stránkovým CSS. Sdílená pravidla jsou omezená na dvě uvedené stránky pomocí `data-page`.
+
 ## Příklady zadání
 
 > Na úvodu změň tento odstavec: „…“ na „…“. Zachovej rozvržení, velikosti písma a animace. Uprav pouze čitelný zdroj v content/pages/home.tsx a ověř mobilní náhled.

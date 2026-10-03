@@ -72,6 +72,14 @@
     "ogImage": "/files/aktuality/noho-lidar-windcube.png"
   },
   {
+    "path": "/aktuality/energie-zitrka-podcast",
+    "key": "aktuality__energie-zitrka-podcast",
+    "title": "Energie zítřka: podcasty o energetice a technologiích | Power Pro",
+    "description": "Objevujte svět energetiky a moderních technologií prostřednictvím podcastů Power Pro, které s pomocí AI převádějí odborné a ověřitelné zdroje do srozumitelné podoby.",
+    "pageClass": "page-content-root news-article-page",
+    "ogType": "article"
+  },
+  {
     "path": "/proc-s-nami",
     "key": "proc-s-nami",
     "title": "Proč s námi | Power Pro – spolehlivý partner v energetice - Power-pro.cz",

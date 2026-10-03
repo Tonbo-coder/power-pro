@@ -1,0 +1,7 @@
+@import url("../news-article.css");
+
+[data-page="aktuality__energie-zitrka-podcast"] .podcast-article-heading { max-width: 70ch; }
+[data-page="aktuality__energie-zitrka-podcast"] .podcast-article-player { margin-top: 40px; }
+[data-page="aktuality__energie-zitrka-podcast"] .podcast-article-player h2 { margin: 0 0 20px; color: #424b54; font-family: Hind, sans-serif; font-size: 24px; font-weight: 600; line-height: 1.25; }
+[data-page="aktuality__energie-zitrka-podcast"] .podcast-article-player iframe { display: block; width: 100%; height: 352px; border: 0; border-radius: 12px; background: #f4f6f8; }
+[data-page="aktuality__energie-zitrka-podcast"] .podcast-article-player p { margin-top: 16px; }

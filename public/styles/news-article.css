@@ -1,0 +1,54 @@
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #sp-header { background: #424b54; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #sp-header .logo-image { height: 90px; width: auto; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article { padding: 40px 0 80px; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-breadcrumbs { display: flex; align-items: center; gap: 12px; margin-bottom: 24px; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-breadcrumbs a { color: #556f89; text-decoration: underline; text-underline-offset: .2em; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-heading { max-width: 1047px; margin: 0 auto 32px; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-heading h1 { margin: 0; font-family: Hind, sans-serif; font-size: clamp(30px, 3vw, 48px); font-weight: 600; line-height: 1.25; letter-spacing: -.015em; text-wrap: balance; color: #424b54; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-photo { max-width: 1047px; margin: 0 auto 40px; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-photo img { display: block; width: 100%; height: auto; border-radius: 15px; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-copy { max-width: 70ch; margin: 0 auto; color: #58626d; font-size: 16px; line-height: 1.7; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-copy p { margin: 0 0 24px; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-copy .news-article-lead { font-size: 19px; line-height: 1.7; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-copy p a { color: #556f89; text-decoration: underline; text-underline-offset: .2em; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-copy p a:hover,
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-breadcrumbs a:hover { color: #424b54; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-back { margin-top: 12px; padding: 18px 40px; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article ::selection { color: #fff; background: #556f89; }
+/* Zachované rozvržení patičky převzaté ze stránky Aktuality. */
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-section-1 { padding: 75px 0 20px; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-2,
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-6,
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-10,
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-14 { max-width: 25%; flex-basis: 25%; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-18 { max-width: 100%; flex-basis: 100%; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-logo { margin-bottom: 1rem; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-logo-img { display: block; max-width: 150px; height: auto; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-title { color: #fff; font-size: 1.125rem; font-weight: 700; margin-bottom: 1rem; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: .75rem; font-size: .875rem; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-contact-item { display: flex; align-items: center; gap: .5rem; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-links a { text-decoration: none; transition: color 150ms ease-in-out; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-links a:hover { color: #fff; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-block-21 .ui-divider { margin: 50px 0 20px; border-bottom: 1px solid #ccc; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-block-23 { color: #999; text-align: center; }
+:is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-block-23 .block-content { font-family: Hind, sans-serif; font-size: 14px; line-height: 28px; }
+@media (max-width: 768px) {
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-logo-img { max-width: 120px; }
+}
+@media (max-width: 480px) {
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .footer-logo-img { max-width: 100px; }
+}
+@media (max-width: 767.98px) {
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article { padding: 24px 0 50px; }
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-heading { margin-bottom: 24px; }
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-photo { margin-bottom: 28px; }
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) .news-article-copy .news-article-lead { font-size: 16px; }
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-section-1 { padding: 50px 0 0; }
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-2,
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-6,
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-10,
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-grid-14 { max-width: 100%; flex-basis: 100%; }
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-column-7 { padding-top: 30px; }
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-column-11,
+  :is([data-page="aktuality__mereni-vetru-noho"], [data-page="aktuality__energie-zitrka-podcast"]) #footer-column-15 { padding-top: 50px; }
+}

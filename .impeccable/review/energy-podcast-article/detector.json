@@ -1,0 +1,50 @@
+[
+  {
+    "antipattern": "design-system-font-size",
+    "name": "Font size outside DESIGN.md",
+    "description": "A literal font-size is off the type ramp documented in DESIGN.md typography. Use a documented size step or update the design system if the new step is intentional.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\styles\\news-article.css",
+    "line": 27,
+    "snippet": "font-size: 1.125rem is off the DESIGN.md type ramp",
+    "advisory": true,
+    "ignoreValue": "1.125rem"
+  },
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\styles\\news-article.css",
+    "line": 32,
+    "snippet": "Undocumented color #ccc is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "#ccc"
+  },
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\styles\\news-article.css",
+    "line": 33,
+    "snippet": "Undocumented color #999 is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "#999"
+  },
+  {
+    "antipattern": "design-system-radius",
+    "name": "Radius outside DESIGN.md",
+    "description": "A border-radius value is outside the DESIGN.md rounded scale. Use a documented radius token or update the design system if the new shape is intentional.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\public\\styles\\pages\\aktuality__energie-zitrka-podcast.css",
+    "line": 6,
+    "snippet": "border-radius: 12px is outside the DESIGN.md rounded scale",
+    "advisory": true,
+    "ignoreValue": "12px"
+  }
+]

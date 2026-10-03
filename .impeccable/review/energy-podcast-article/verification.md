@@ -1,0 +1,13 @@
+# Verification
+
+- `npm run typecheck` and `npm run build`: passed. The new route is prerendered through the existing static page registry.
+- HTTP article and shared stylesheet: 200. Canonical is `https://power-pro.cz/aktuality/energie-zitrka-podcast`, Open Graph type is article, and sitemap includes the route.
+- Browser DOM: all three supplied paragraphs preserved (normal whitespace), one article H1, correct supplied show URL and official `/embed/show/53N17blu0Vp4i9VKA6Uu4X` iframe. The player loaded the Energie zítřka show.
+- Actual local navigation: the full-title tile link opened the article in the same tab, and its Zpět na aktuality link returned to the news index.
+- Real player interaction: clicking Přehrát changed the control to Pozastavit and the elapsed time progressed; clicking Pozastavit returned it to Přehrát. The playback was stopped after verification. No autoplay URL parameter.
+- Responsive checks: article and news index have no horizontal overflow at 390px; iframe uses full reading-column width and a reserved 352px height. Desktop news captures are at 1280px. News screenshot motion is temporarily reduced to settle inherited entrance animations; production animation code is unchanged.
+- React review: server-rendered content from local JSON, no new client hooks/runtime packages, stable paragraph/path keys, semantic labelled article and player, explicit iframe title, secure external link, and existing keyboard focus styles.
+- Detector ran once. Four advisory findings: three existing footer values inherited unchanged from NOHO, plus Spotify's standard 12px embed radius. No primary findings. They are local inherited/provider values; no global design-system change is intended.
+- No new shipping raster: cover art belongs to Spotify inside its remote iframe. Local review PNGs are development evidence.
+- Capture limitation: the in-app browser's full article capture at phone width produced compositor artifacts (a floating skip-link despite its measured rectangle being entirely above the viewport, and unpainted iframe contents). Those invalid files were discarded. The valid `mobile-player.png` is a real 390px viewport capture of the loaded player, direct link, return button and footer boundary; the mobile text layout is verified through DOM geometry and exact copy rather than claiming a valid full-page phone article capture. Full-page phone news and desktop article/news captures are valid and retained.
+- The documenter confirmed shared article CSS is identical to committed NOHO styling after selector normalization. Product and design artifacts are preserved.

@@ -11,6 +11,7 @@ import Page9 from "./pages/proc-s-nami";
 import Page10 from "./pages/kontakt";
 import Page11 from "./pages/e-mail-podekovani";
 import NewsNoho from "./pages/aktuality__mereni-vetru-noho";
+import NewsPodcast from "./pages/aktuality__energie-zitrka-podcast";
 export const pageComponents = {
   "home": Page0,
   "vetrne-elektrarny": Page1,
@@ -22,6 +23,7 @@ export const pageComponents = {
   "bateriove-uloziste": Page7,
   "aktuality": Page8,
   "aktuality__mereni-vetru-noho": NewsNoho,
+  "aktuality__energie-zitrka-podcast": NewsPodcast,
   "proc-s-nami": Page9,
   "kontakt": Page10,
   "e-mail-podekovani": Page11
