@@ -26,7 +26,9 @@ Pro skutečné doručení doplňte `SMTP_HOST`, `SMTP_USER`, `SMTP_PASSWORD`, `S
 
 ## Vlastní doména
 
-Doménu `power-pro.cz` připojte přes Domains a nastavte DNS podle konkrétních pokynů Vercelu. Zachovejte poštovní záznamy MX/TXT. Před přepnutím ověřte doručení formuláře a obě varianty domény; metadata a sitemap již používají `https://power-pro.cz`.
+Domény `power-pro.cz` a `www.power-pro.cz` jsou od 3. 10. 2026 přidané k produkčnímu prostředí. Varianta `www` má trvalé přesměrování 308 na `power-pro.cz`. DNS zůstává u WEDOSu a zatím směruje na původní web; HTTPS certifikáty Vercel vystaví po správném nasměrování DNS. Metadata a sitemap již používají `https://power-pro.cz`.
+
+Přesné změny DNS, zachování Microsoft 365 pošty, zapojení SMTP a pořadí ostrého spuštění obou webů jsou v [GO-LIVE.md](GO-LIVE.md). Před přepnutím ověřte skutečné doručení formuláře; SMTP přístupové údaje zatím chybí.
 
 ## Kontrola a ruční nasazení
 
