@@ -1,0 +1,26 @@
+[
+  {
+    "antipattern": "design-system-font-size",
+    "name": "Font size outside DESIGN.md",
+    "description": "A literal font-size is off the type ramp documented in DESIGN.md typography. Use a documented size step or update the design system if the new step is intentional.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\components\\PodcastPopup.module.css",
+    "line": 46,
+    "snippet": "font-size: 38px is off the DESIGN.md type ramp",
+    "advisory": true,
+    "ignoreValue": "38px"
+  },
+  {
+    "antipattern": "design-system-font-size",
+    "name": "Font size outside DESIGN.md",
+    "description": "A literal font-size is off the type ramp documented in DESIGN.md typography. Use a documented size step or update the design system if the new step is intentional.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "F:\\Projects\\Weby\\Power-pro-web\\components\\PodcastPopup.module.css",
+    "line": 53,
+    "snippet": "font-size: 18px is off the DESIGN.md type ramp",
+    "advisory": true,
+    "ignoreValue": "18px"
+  }
+]

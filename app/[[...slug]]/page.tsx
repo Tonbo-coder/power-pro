@@ -6,6 +6,7 @@ import site from "@/content/site.json";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import SiteInteractions from "@/components/SiteInteractions";
+import PodcastPopup from "@/components/PodcastPopup";
 
 type Props = { params: Promise<{ slug?: string[] }> };
 export const dynamicParams = false;
@@ -30,6 +31,7 @@ export default async function Page(props: Props) {
         <div id="page-content-root" className={page.pageClass}><div className="page-content"><Content /></div></div>
       </div></div></div></section><Footer /></main>
       <SiteInteractions pageKey={page.key} />
+      {page.key === "home" && <PodcastPopup />}
     </div></div>
   </div>;
 }

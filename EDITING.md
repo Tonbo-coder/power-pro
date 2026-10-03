@@ -23,6 +23,8 @@ Kontakty vložené do textu či patičky jsou záměrně součástí příslušn
 
 Adresa firmy a souřadnice kontaktní mapy jsou v `content/site.json` v objektu `address`. Změna se promítne do patičky, kontaktů, značky a bubliny v mapě i odkazu „Otevřít mapu“.
 
+Okno s podcastem na úvodu používá `content/podcast.json`: text, Spotify odkaz, přepínač `enabled`, prodlevu `delayMs` a četnost `cooldownDays`. Výchozí prodleva je 5 sekund a další automatické zobrazení nejdříve za 7 dní; volba se pamatuje v prohlížeči. Změnou `id` lze oznámit nový podcast i návštěvníkům, kteří předchozí pozvánku už viděli. Komponenta a její vzhled jsou v `components/PodcastPopup.tsx` a `components/PodcastPopup.module.css`.
+
 ## Příklady zadání
 
 > Na úvodu změň tento odstavec: „…“ na „…“. Zachovej rozvržení, velikosti písma a animace. Uprav pouze čitelný zdroj v content/pages/home.tsx a ověř mobilní náhled.
