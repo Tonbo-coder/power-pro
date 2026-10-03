@@ -55,8 +55,10 @@ button:disabled { cursor: wait; opacity: .65; }
 .form-message { margin: 8px 0; padding: 12px; border-radius: 4px; background: #eef4f8; font-size: 15px; }
 .form-message.error { color: #922a24; background: #fff1ef; }
 .contact-map { position: relative; }
+.contact-map-frame { position: relative; }
 .contact-map .block-openstreetmap { z-index: 0; background: #eee; }
 .contact-map .map-directions { position: absolute; bottom: 22px; right: 8px; z-index: 1; background: rgb(255 255 255 / .92); padding: 4px 8px; color: #424b54; font-size: 12px; }
+.contact-map .map-attribution { margin: 0; padding: 4px 8px; color: #68727c; font-size: 11px; line-height: 1.4; }
 .pro-contact-form .ui-form-group { flex: 0 0 100%; min-width: 0; }
 .pro-contact-form .ui-form-builder-field-0, .pro-contact-form .ui-form-builder-field-1, .pro-contact-form .verification-field { flex-basis: 50%; }
 .pro-contact-form .ui-form-control { line-height: 1.25; }
