@@ -1,5 +1,6 @@
 import ContactForm from "@/components/ContactForm";
 import ContactMap from "@/components/ContactMap";
+import site from "@/content/site.json";
 
 /** Obsah stránky /kontakt. Upravujte přímo; původní export není za běhu používán. */
 export default function Content() {
@@ -175,9 +176,9 @@ export default function Content() {
                                 >
                                   <div className="block block-text-block ">
                                     <div className="block-content  ">
-                                      {"Červený Kříž 286"}
+                                      {site.address.street}
                                       <br />
-                                      {"586 01 Jihlava"}
+                                      {`${site.address.postalCode}, ${site.address.city}`}
                                     </div>
                                   </div>
                                 </div>

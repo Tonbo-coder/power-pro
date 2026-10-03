@@ -21,6 +21,8 @@ Klíč stránky najdete podle URL v `content/pages.json`. Například `/` použ�
 
 Kontakty vložené do textu či patičky jsou záměrně součástí příslušné stránky. Při změně telefonu nebo e-mailu vyhledejte starou hodnotu v celém `content/` a `components/`, aby se změnila všechna použití včetně `tel:`/`mailto:`.
 
+Adresa firmy a souřadnice kontaktní mapy jsou v `content/site.json` v objektu `address`. Změna se promítne do patičky, kontaktů, značky a bubliny v mapě i odkazu „Otevřít mapu“.
+
 ## Příklady zadání
 
 > Na úvodu změň tento odstavec: „…“ na „…“. Zachovej rozvržení, velikosti písma a animace. Uprav pouze čitelný zdroj v content/pages/home.tsx a ověř mobilní náhled.

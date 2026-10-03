@@ -7,6 +7,13 @@
   "logoHeight": 90,
   "email": "info@power-pro.cz",
   "phone": "+420 702 204 789",
+  "address": {
+    "street": "Polenská 252/10",
+    "postalCode": "586 01",
+    "city": "Jihlava",
+    "latitude": 49.4105510,
+    "longitude": 15.5979624
+  },
   "navigation": [
     {
       "label": "Úvod",

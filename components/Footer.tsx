@@ -1,3 +1,5 @@
+import site from "@/content/site.json";
+
 export default function Footer() {
   return (
     <footer id="sp-footer">
@@ -80,7 +82,7 @@ export default function Footer() {
                                                   <span className="icon icon-location"></span>
                                                   <span>
                                                     {
-                                                      "Červený Kříž 286, 586 01 Jihlava"
+                                                      `${site.address.street}, ${site.address.postalCode}, ${site.address.city}`
                                                     }
                                                   </span>
                                                 </li>

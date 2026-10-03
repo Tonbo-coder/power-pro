@@ -1,4 +1,6 @@
 
+import site from "@/content/site.json";
+
 /** Obsah stránky /vetrne-elektrarny/realizace-mereni-vetru. Upravujte přímo; původní export není za běhu používán. */
 export default function Content() {
   return (
@@ -528,6 +530,9 @@ export default function Content() {
                               </p>
                               <p className="m">
                                 {"Declaration from Manufacturer · PDF"}
+                              </p>
+                              <p className="m">
+                                {`Dokument uvádí původní adresu. Aktuální adresa Power Pro: ${site.address.street}, ${site.address.postalCode}, ${site.address.city}.`}
                               </p>
                             </div>
                             <span className="wc-dl-arrow">{"↓"}</span>
