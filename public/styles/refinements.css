@@ -34,7 +34,6 @@ button:disabled { cursor: wait; opacity: .65; }
 .mobile-menu details[open] > summary::after { transform: rotate(225deg); margin-top: 10px; }
 .section-background-video { overflow: hidden; }
 .section-background-video video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-.video-toggle { position: absolute; z-index: 10; top: 575px; right: 20px; border: 1px solid rgb(255 255 255 / .5); border-radius: 4px; padding: 5px 10px; color: #fff; background: rgb(0 0 0 / .25); font-size: 16px; min-height: 36px; }
 .ui-wow { visibility: visible; }
 .motion-pending { opacity: 0; animation-name: none !important; }
 .motion-entered { animation-fill-mode: both; }
@@ -83,7 +82,6 @@ button:disabled { cursor: wait; opacity: .65; }
   #sp-header .logo, #sp-header .sp-column { height: 50px; }
   .brand-pro #sp-header .logo-image { height: 36px !important; width: auto; }
   .brand-drive #sp-header .logo-image { height: 60px !important; width: auto; }
-  .video-toggle { top: 575px; }
 }
 @media (max-width: 575px) {
   .brand-drive #sp-header .logo-image { height: 50px !important; }

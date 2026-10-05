@@ -9,8 +9,6 @@ export default function SiteInteractions({ pageKey }: { pageKey: string }) {
   const restoreFocus = useRef<HTMLElement | null>(null);
   const [images, setImages] = useState<GalleryImage[]>([]);
   const [index, setIndex] = useState(0);
-  const [videoPaused, setVideoPaused] = useState(false);
-  const [hasVideo, setHasVideo] = useState(false);
   const closeGallery = () => { dialog.current?.close(); restoreFocus.current?.focus(); };
   useEffect(() => {
     const reduced = window.matchMedia("(prefers-reduced-motion: reduce)");
@@ -28,8 +26,7 @@ export default function SiteInteractions({ pageKey }: { pageKey: string }) {
       if (!reduced.matches) { el.classList.add("motion-pending"); observer.observe(el); }
     });
     const videos = [...document.querySelectorAll<HTMLVideoElement>("video[data-background-video]")];
-    setHasVideo(videos.length > 0);
-    const updateMotion = () => { videos.forEach(video => { if (reduced.matches) video.pause(); else video.play().catch(() => undefined); }); setVideoPaused(reduced.matches); if (reduced.matches) elements.forEach(el => el.classList.remove("motion-pending")); };
+    const updateMotion = () => { videos.forEach(video => { if (reduced.matches) video.pause(); else video.play().catch(() => undefined); }); if (reduced.matches) elements.forEach(el => el.classList.remove("motion-pending")); };
     updateMotion(); reduced.addEventListener("change", updateMotion);
     const onClick = (event: MouseEvent) => {
       const anchor = (event.target as Element).closest<HTMLAnchorElement>(".block-gallery a");
@@ -45,7 +42,6 @@ export default function SiteInteractions({ pageKey }: { pageKey: string }) {
   }, [pageKey]);
   const move = (by: number) => setIndex(current => (current + by + images.length) % images.length);
   return <>
-    {hasVideo && <button className="video-toggle" aria-label={videoPaused ? "Přehrát video na pozadí" : "Pozastavit video na pozadí"} onClick={() => { const paused = !videoPaused; document.querySelectorAll<HTMLVideoElement>("video[data-background-video]").forEach(v => paused ? v.pause() : void v.play().catch(() => undefined)); setVideoPaused(paused); }}><Icon name={videoPaused ? "play" : "pause"} /></button>}
     <dialog ref={dialog} className="gallery-dialog" aria-label="Galerie fotografií" onCancel={closeGallery} onClick={e => { if (e.target === e.currentTarget) closeGallery(); }} onKeyDown={e => { if (e.key === "ArrowRight") move(1); if (e.key === "ArrowLeft") move(-1); }}>
       <button className="gallery-close" onClick={closeGallery} aria-label="Zavřít galerii"><Icon name="close" /></button>
       {images[index] && <figure><img src={images[index].src} alt={images[index].caption} /><figcaption>{images[index].caption} <span>{index + 1} / {images.length}</span></figcaption></figure>}
