@@ -5,8 +5,18 @@ import Icon from "@/components/Icon";
 import podcast from "@/content/podcast.json";
 import styles from "./PodcastPopup.module.css";
 
-const storageKey = `power-pro:podcast:${podcast.id}`;
-const cooldownMs = podcast.cooldownDays * 24 * 60 * 60 * 1000;
+const storageKey = `power-pro:podcast:${podcast.id}:dismissed`;
+// Keep dismissals during client navigation even when session storage is unavailable.
+let dismissedThisVisit = false;
+
+function wasDismissed() {
+  if (dismissedThisVisit) return true;
+  try {
+    return window.sessionStorage.getItem(storageKey) === "true";
+  } catch {
+    return false;
+  }
+}
 
 export default function PodcastPopup() {
   const dialog = useRef<HTMLDialogElement>(null);
@@ -19,19 +29,11 @@ export default function PodcastPopup() {
     if (!podcast.enabled) return;
     const popup = dialog.current;
     if (!popup) return;
-    const shownRecently = () => {
-      try {
-        const shownAt = Number(window.localStorage.getItem(storageKey));
-        return shownAt > 0 && Date.now() - shownAt < cooldownMs;
-      } catch {
-        return false;
-      }
-    };
-    if (shownRecently()) return;
+    if (wasDismissed()) return;
 
     let timer: ReturnType<typeof setTimeout>;
     const show = () => {
-      if (shownRecently()) return;
+      if (wasDismissed()) return;
       const active = document.activeElement as HTMLElement | null;
       if (document.visibilityState === "hidden" || document.querySelector("dialog[open]") || active?.matches("input, textarea, select, [contenteditable='true']")) {
         timer = setTimeout(show, 1000);
@@ -41,11 +43,6 @@ export default function PodcastPopup() {
       popup.showModal();
       setOpen(true);
       closeButton.current?.focus({ preventScroll: true });
-      try {
-        window.localStorage.setItem(storageKey, String(Date.now()));
-      } catch {
-        // Storage is optional; never prevent dismissing or following the link.
-      }
     };
     timer = setTimeout(show, podcast.delayMs);
     return () => {
@@ -61,7 +58,15 @@ export default function PodcastPopup() {
     return () => { document.body.style.overflow = previous; };
   }, [open]);
 
-  const close = () => dialog.current?.close();
+  const close = () => {
+    dismissedThisVisit = true;
+    try {
+      window.sessionStorage.setItem(storageKey, "true");
+    } catch {
+      // The in-memory flag still suppresses repeat prompts during client navigation.
+    }
+    dialog.current?.close();
+  };
   const isBackdrop = (event: React.MouseEvent<HTMLDialogElement> | React.PointerEvent<HTMLDialogElement>) => {
     if (event.target !== event.currentTarget) return false;
     const box = event.currentTarget.getBoundingClientRect();

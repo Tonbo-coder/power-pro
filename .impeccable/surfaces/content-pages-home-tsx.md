@@ -19,6 +19,6 @@ STORY: Read the supplied promise, choose Spotify or dismiss, and continue browsi
 
 FIRST VIEWPORT: A centered panel no wider than 560px, title above a readable paragraph, Spotify action below, visible 44px close control at the upper right. Dim the existing homepage. On phones, keep 16px outer clearance and stack the actions.
 
-FORM: Precisely requested local extension using a native modal dialog. No concept seed is required for this narrow request. Default timing is five seconds with a seven-day cooldown, pending user preference. Defer if another dialog or text entry is active. Support Escape, backdrop dismissal, keyboard focus containment, focus return, reduced motion and unavailable storage.
+FORM: Precisely requested local extension using a native modal dialog. No concept seed is required for this narrow request. Per the owner's preference on 2026-10-05, show after one second on the homepage. Dismissal or following Spotify suppresses further prompts in the current tab session, including reloads and returns to the homepage; a fresh tab shows the invitation again. Ignore the previous seven-day localStorage cooldown. Defer if another dialog or text entry is active. Support Escape, backdrop dismissal, keyboard focus containment, focus return, reduced motion and unavailable storage.
 
 FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance

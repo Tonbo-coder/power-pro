@@ -5,6 +5,5 @@
   "text": "Zjistěte, jak moderní technologie a energetika mění náš každodenní život. Žádné nepodložené dojmy, jen ověřená data a studie převedené pomocí AI do praktického podcastu.",
   "buttonLabel": "poslechnout na spotify",
   "url": "https://open.spotify.com/show/53N17blu0Vp4i9VKA6Uu4X?si=d38e534373bc4062",
-  "delayMs": 5000,
-  "cooldownDays": 7
+  "delayMs": 1000
 }
