@@ -5,9 +5,8 @@ import site from "@/content/site.json";
 const { street, postalCode, city, latitude, longitude } = site.address;
 const address = `${street}, ${postalCode}, ${city}`;
 const position: [number, number] = [latitude, longitude];
-const mapUrl = `https://www.openstreetmap.org/?mlat=${latitude}&mlon=${longitude}#map=16/${latitude}/${longitude}`;
 const mapAttribution = "Mapový podklad © Esri, DeLorme, NAVTEQ";
-/** Address and coordinates are shared with the contact details and footer. */
+/** Shared address and coordinates; the caption and external-map link are omitted at the owner's request. */
 export default function ContactMap() {
   const element = useRef<HTMLDivElement>(null);
   useEffect(() => {
@@ -28,5 +27,5 @@ export default function ContactMap() {
     if (element.current) visible.observe(element.current);
     return () => { disposed = true; visible.disconnect(); resize?.disconnect(); map?.remove(); };
   }, []);
-  return <div className="contact-map"><div className="contact-map-frame"><div ref={element} className="block-openstreetmap" role="region" aria-label={`Mapa sídla: ${address}`} /><a className="map-directions" href={mapUrl} target="_blank" rel="noopener noreferrer">Otevřít mapu</a></div><p className="map-attribution">{mapAttribution}</p></div>;
+  return <div className="contact-map"><div className="contact-map-frame"><div ref={element} className="block-openstreetmap" role="region" aria-label={`Mapa sídla: ${address}`} /></div></div>;
 }
