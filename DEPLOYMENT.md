@@ -22,13 +22,13 @@ CLI může při propojení přepsat `.env.local`; před propojením si uchovejte
 
 V prostředí Production a Preview jsou nastavené `CONTACT_MODE=smtp`, `CONTACT_ALLOWED_ORIGINS` a samostatný náhodný `CONTACT_SECRET` uložený jako Secret. Hodnota klíče se do repozitáře neukládá. Backend povoluje pouze přesné adresy z konfigurace a systémových proměnných `VERCEL_URL`, `VERCEL_BRANCH_URL` a `VERCEL_PROJECT_PRODUCTION_URL`.
 
-Pro skutečné doručení doplňte `SMTP_HOST`, `SMTP_USER`, `SMTP_PASSWORD`, `SMTP_PORT`, `SMTP_SECURE` a případně `CONTACT_FROM`/`CONTACT_TO` v [nastavení proměnných](https://vercel.com/tonbo-coders-projects/power-pro/settings/environment-variables). Po změně proměnných proveďte nové nasazení. Bez SMTP formulář vrací výslovnou chybu konfigurace.
+Od 6. 10. 2026 je Production nakonfigurováno pro Resend SMTP s vlastním klíčem omezeným na `forms.power-pro.cz`, uloženým jako Sensitive `SMTP_PASSWORD`. Odesílatel je `Power Pro <web@forms.power-pro.cz>` a příjemce `CONTACT_TO=miloslav.koci@tkeko.eu`, což je cílová adresa původního přeposílání WEDOS schránky. Resend potvrdil doručení produkčního testu na tuto adresu. Preview SMTP údaje nemá. Příjemce nebo SMTP nastavení lze upravit v [serverových proměnných](https://vercel.com/tonbo-coders-projects/power-pro/settings/environment-variables); po změně proveďte nové nasazení a test doručení. Přístupové údaje nepatří do repozitáře.
 
 ## Vlastní doména
 
-Domény `power-pro.cz` a `www.power-pro.cz` jsou od 3. 10. 2026 přidané k produkčnímu prostředí. Varianta `www` má trvalé přesměrování 308 na `power-pro.cz`. DNS zůstává u WEDOSu a zatím směruje na původní web; HTTPS certifikáty Vercel vystaví po správném nasměrování DNS. Metadata a sitemap již používají `https://power-pro.cz`.
+Domény `power-pro.cz` a `www.power-pro.cz` jsou od 3. 10. 2026 přidané k produkčnímu prostředí. Varianta `www` má trvalé přesměrování 308 na `power-pro.cz`. DNS zůstává u WEDOSu a webové záznamy již směřují na Vercel; obě adresy mají funkční HTTPS. Metadata a sitemap používají `https://power-pro.cz`.
 
-Přesné změny DNS, zachování Microsoft 365 pošty, zapojení SMTP a pořadí ostrého spuštění obou webů jsou v [GO-LIVE.md](GO-LIVE.md). Před přepnutím ověřte skutečné doručení formuláře; SMTP přístupové údaje zatím chybí.
+Přesné webové a odesílací DNS, zachování Microsoft 365 pošty, SMTP konfigurace a výsledky produkčních testů obou webů jsou v [GO-LIVE.md](GO-LIVE.md). Kořenové poštovní MX/SPF a nastavení Microsoft 365 se při zapojení formulářů neměnily.
 
 ## Kontrola a ruční nasazení
 

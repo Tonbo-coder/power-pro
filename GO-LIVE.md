@@ -17,7 +17,9 @@ Obě odesílací subdomény v regionu Ireland (eu-west-1) jsou v Resendu ověře
 
 Powerdrive: test přes ostrý formulář skončil stránkou s poděkováním a Resend potvrdil doručení na `info@powerdrive.cz`. Stav Delivered znamená přijetí serverem příjemce; konkrétní složku schránky a přečtení zprávy tento test neověřuje.
 
-Power Pro: `/api/contact` zprávu přijal a odeslal přes Resend, ale Microsoft 365 ji následně odmítl chybou `550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient info@power-pro.cz not found by SMTP address lookup`. Formulář tedy zatím nemá funkčního příjemce. V Production je aktuálně `CONTACT_TO=info@power-pro.cz`; pro dokončení je nutné nastavit potvrzenou existující schránku a znovu nasadit projekt, nebo nechat správce Microsoft 365 vytvořit příslušnou schránku či alias. Kořenové MX kvůli této chybě neměňte. Resend neplatného příjemce zařadil do suppression listu; odblokování a opakování testu na stejnou adresu má smysl až po opravě schránky. Přijetí zprávy odesílacím SMTP serverem samo o sobě neznamená konečné doručení.
+Power Pro: schránka `info@power-pro.cz` existuje u WEDOSu a přeposílá na `miloslav.koci@tkeko.eu`. Veřejné MX však směřují na Microsoft 365, který původní test na `info@power-pro.cz` odmítl chybou `550 5.1.10 RESOLVER.ADR.RecipientNotFound`. Po potvrzení vlastníkem je v Production nastaveno `CONTACT_TO=miloslav.koci@tkeko.eu` a projekt byl znovu nasazen. Nový test přes ostrý `/api/contact` vrátil HTTP 200 a Resend potvrdil Delivered na tuto adresu 6. 10. 2026 v 11:00. Tím se používá cílový příjemce původního přeposílání přímo; Microsoft 365, kořenové MX a přeposílání WEDOS zůstaly beze změny. Konkrétní složku schránky a přečtení zprávy tento test neověřuje.
+
+Resend původně odmítnutou adresu `info@power-pro.cz` ponechává v suppression listu. Neodblokovávejte ji ani na ni nevracejte `CONTACT_TO`, dokud správce nepotvrdí funkční příjem na serveru určeném veřejnými MX. Příjemce formuláře lze kdykoli změnit pouze serverovou proměnnou `CONTACT_TO` a novým nasazením; adresa není pevně zapsaná v kódu. Veřejná kontaktní adresa webu zůstává `info@power-pro.cz`; změna příjemce formuláře neřeší doručování běžné externí pošty na tuto adresu.
 
 ## DNS změny ve WEDOSu
 
@@ -57,7 +59,7 @@ Zachovejte také všechny případné další existující poštovní záznamy, 
 
 ## Jak fungují nové kontaktní formuláře
 
-Oba weby odesílají JSON na vlastní serverový endpoint `/api/contact` ve Vercelu. Ten provádí validaci a pomocí Nodemaileru odešle jednu textovou zprávu přes nastavený SMTP server. Výchozí příjemci jsou `info@power-pro.cz` a `info@powerdrive.cz`; lze je změnit proměnnou `CONTACT_TO`. Adresa návštěvníka je v `Reply-To`, takže tlačítko Odpovědět v poště míří přímo na něj. Odesílatel musí být ověřený u SMTP poskytovatele.
+Oba weby odesílají JSON na vlastní serverový endpoint `/api/contact` ve Vercelu. Ten provádí validaci a pomocí Nodemaileru odešle jednu textovou zprávu přes nastavený SMTP server. Aktuální produkční příjemci jsou `miloslav.koci@tkeko.eu` pro Power Pro a `info@powerdrive.cz` pro Powerdrive. Nastavují se proměnnou `CONTACT_TO`; bez ní kód použije veřejný e-mail z `content/site.json`. Adresa návštěvníka je v `Reply-To`, takže tlačítko Odpovědět v poště míří přímo na něj. Odesílatel musí být ověřený u SMTP poskytovatele.
 
 Web zprávy neukládá do databáze ani neposílá automatickou kopii návštěvníkovi. Úspěch potvrdí až po přijetí zprávy SMTP serverem; doručení do konkrétní složky schránky je třeba ověřit. Bez konfigurace vrací chybu 503 „Odesílání e-mailů zatím není nakonfigurováno.“ Produkční formulář nemůže předstírat úspěch v lokálním testovacím režimu.
 
@@ -83,7 +85,7 @@ Nastavení proměnných: [Power Pro](https://vercel.com/tonbo-coders-projects/po
 | `SMTP_USER` | `resend` | `resend` |
 | `SMTP_PASSWORD` | API klíč pro `forms.power-pro.cz` | API klíč pro `forms.powerdrive.cz` |
 | `CONTACT_FROM` | `Power Pro <web@forms.power-pro.cz>` | `Powerdrive <web@forms.powerdrive.cz>` |
-| `CONTACT_TO` | `info@power-pro.cz` | `info@powerdrive.cz` |
+| `CONTACT_TO` | `miloslav.koci@tkeko.eu` | `info@powerdrive.cz` |
 
 Adresy `web@forms.…` jsou ověřené identity odesílatele; nemusíte pro ně zřizovat schránky. Odpovědi půjdou na adresu návštěvníka z formuláře díky `Reply-To`. Po uložení otevřete **Deployments → poslední produkční nasazení → Redeploy**. Změna proměnných se do již běžícího nasazení sama nepropíše. Pro testy na preview přidávejte SMTP údaje i do Preview jen tehdy, pokud má také skutečně odesílat e-maily.
 
@@ -111,7 +113,7 @@ Současný backend podporuje SMTP jméno/heslo, nikoli OAuth. Kvůli formuláři
 ## Pořadí spuštění a kontrola
 
 1. Nastavte odesílací službu a proměnné, proveďte nové produkční nasazení obou projektů.
-2. Na současných adresách `*.vercel.app` odešlete vlastní testovací zprávu z obou formulářů. Ověřte, že skutečně dorazí do správného `info@…`, zkontrolujte spam a ověřte, že Odpovědět míří na e-mail uvedený ve formuláři.
+2. Na současných adresách `*.vercel.app` odešlete vlastní testovací zprávu z obou formulářů. Ověřte, že skutečně dorazí příjemci nastavenému v `CONTACT_TO`, zkontrolujte spam a ověřte, že Odpovědět míří na e-mail uvedený ve formuláři.
 3. Teprve potom proveďte tabulku webových DNS změn. Nameservery i poštovní záznamy zachovejte.
 4. V **Vercel → Settings → Domains** klikněte Refresh. Vyčkejte na **Valid Configuration** a HTTPS certifikát pro hlavní doménu i `www`. WEDOS uvádí obvyklé rozšíření změn do hodiny; TTL těchto webových záznamů je 300 sekund, ale nejde o záruku přesného času. [DNS manuál](https://kb.vedos.cz/dns-manual/).
 5. Ověřte HTTPS na obou hlavních doménách, přesměrování `www`, kontakty, podstránky, obrázky, vložené přehrávače a formuláře znovu na ostrých doménách. Z externí schránky ověřte také příjem a odpověď běžné pošty v Microsoft 365.
