@@ -1,0 +1,52 @@
+[
+  {
+    "domain": "forms.power-pro.cz",
+    "region": "eu-west-1",
+    "id": "e3156b1f-a91a-4bb9-b0fb-b8dda39eb455",
+    "records": [
+      {
+        "name": "resend._domainkey.forms",
+        "type": "TXT",
+        "value": "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCKk+lp6m2lZcEI4EeD5CNUsgv90gg7zdKOuocKqASlXaJUJMIkTQCReUunkBIeGBDXvj23lhF8V76nVYtIV8OBgGvXtIkyZgbOcbT3Erbr9j6kL8u/zb6m+w+OhcZ3qokoa0rbb5ewPf1pnS0G4fdmjDgPIxgOri4fhCupVi0swIDAQAB",
+        "ttl": 300
+      },
+      {
+        "name": "rsend.forms",
+        "type": "CNAME",
+        "value": "rsend-euw1.forge.rmta.net",
+        "ttl": 300
+      },
+      {
+        "name": "send.forms",
+        "type": "CNAME",
+        "value": "send.forge.rmta.net",
+        "ttl": 300
+      }
+    ]
+  },
+  {
+    "domain": "forms.powerdrive.cz",
+    "region": "eu-west-1",
+    "id": "89ed8655-c8b2-4d35-ade9-304d873e5aa0",
+    "records": [
+      {
+        "name": "resend._domainkey.forms",
+        "type": "TXT",
+        "value": "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6y5WaQpubd3czniVH4qC2n9eTd51zdpf7eRykrAvB5alIsWxgyhKX+ram3g4l9MIyn6/cX5bm7PkSBfrPTk7DnoYoXc1dRutoQlbFWj6LaE1cnpP5CtwZ7eSFRZnZetox4M6zlf/Cr8+nKnaE0h3b5CNp2PzWzaq2snykTYuOZQIDAQAB",
+        "ttl": 300
+      },
+      {
+        "name": "rsend.forms",
+        "type": "CNAME",
+        "value": "rsend-euw1.forge.rmta.net",
+        "ttl": 300
+      },
+      {
+        "name": "send.forms",
+        "type": "CNAME",
+        "value": "send.forge.rmta.net",
+        "ttl": 300
+      }
+    ]
+  }
+]

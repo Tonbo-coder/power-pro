@@ -1,6 +1,6 @@
 # Ostré spuštění Power Pro a Powerdrive
 
-Stav ověřen 3. 10. 2026. DNS hodnoty níže pocházejí z nastavení konkrétních projektů Vercelu, nikoli z obecného příkladu.
+Stav aktualizován 6. 10. 2026. DNS hodnoty níže pocházejí z nastavení konkrétních projektů Vercelu, nikoli z obecného příkladu.
 
 ## Co je připravené
 
@@ -9,15 +9,15 @@ Stav ověřen 3. 10. 2026. DNS hodnoty níže pocházejí z nastavení konkrétn
 | Power Pro | [power-pro](https://vercel.com/tonbo-coders-projects/power-pro/settings/domains) | `power-pro.cz` | `www.power-pro.cz` → `power-pro.cz`, HTTP 308 |
 | Powerdrive | [powerdrive](https://vercel.com/tonbo-coders-projects/powerdrive/settings/domains) | `powerdrive.cz` | `www.powerdrive.cz` → `powerdrive.cz`, HTTP 308 |
 
-Všechny čtyři domény jsou přidané a vlastnictví je ve Vercelu ověřené. Oba projekty mají funkční produkční nasazení a Git integraci s větví `main`. Domény zatím směřují na původní hosting; WEDOS DNS nebylo změněno. Stav „Invalid Configuration“ ve Vercelu nyní znamená právě čekání na změnu DNS. Vercel vystaví HTTPS certifikáty po rozšíření správných DNS záznamů. [Dokumentace Vercelu](https://vercel.com/docs/domains/working-with-ssl).
+Všechny čtyři domény jsou přidané a vlastnictví je ve Vercelu ověřené. Oba projekty mají funkční produkční nasazení a Git integraci s větví `main`. Webové DNS už směřuje na Vercel. Obě hlavní domény odpovídají přes HTTPS a www se přesměrovává na hlavní doménu. Certifikát Powerdrive byl doplněn 6. 10. 2026. [Dokumentace Vercelu](https://vercel.com/docs/domains/working-with-ssl).
 
-Formuláře zatím nemohou doručovat zprávy: v Production nejsou nastavené SMTP přístupové údaje. Nejprve je zapojte a ověřte na současných adresách [Power Pro](https://power-pro-sage.vercel.app) a [Powerdrive](https://powerdrive-lemon.vercel.app), potom přepněte DNS.
+Pro oba formuláře byly v Resendu vytvořeny odesílací subdomény v regionu Ireland (eu-west-1), jejich DNS záznamy byly přidány ve WEDOSu a ověřeny přímo na autoritativním DNS. V Production obou projektů jsou nastaveny SMTP server, port, zabezpečení, uživatel a adresy odesílatele a příjemce. Zbývá dokončení ověření v Resendu, vložení omezených API klíčů jako SMTP_PASSWORD a nové nasazení s testem doručení. Do té doby formuláře neodesílají.
 
 ## DNS změny ve WEDOSu
 
 V zákaznickém centru otevřete DNS → příslušná doména → záznamy domény. Před úpravou si uložte export nebo snímek tabulky. Pro hlavní doménu nechte pole **název prázdné**; znak `@` používaný Vercel dokumentací do tohoto pole nezapisujte. Pro subdoménu zadejte pouze `www`. [Manuál WEDOS DNS](https://kb.vedos.cz/dns-manual/).
 
-Proveďte pouze tyto změny, TTL nastavte na **300**:
+Následující webové změny už byly aplikovány; tabulka je uchována jako přehled migrace. TTL je **300**:
 
 | Doména | Název ve WEDOSu | Typ | Akce / data |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ V obou projektech jsou v Production a Preview připravené `CONTACT_MODE=smtp`, 
 Resend zde slouží pouze pro odchozí zprávy formulářů. Příjem běžné pošty zůstane v Microsoft 365. Podporuje stávající SMTP kód bez úpravy aplikace. Samostatné odesílací subdomény oddělí nové záznamy od hlavních domén. [SMTP nastavení](https://resend.com/docs/send-with-smtp), [ověření subdomén](https://resend.com/docs/dashboard/domains/introduction).
 
 1. V Resend založte nebo použijte vlastní účet a v **Domains → Add domain** přidejte `forms.power-pro.cz` a `forms.powerdrive.cz`. Zvolte pouze odesílání; příjem pošty (Receiving) nezapínejte. Pro běžný menší objem může stačit tarif Free: k datu kontroly zahrnuje 3 domény, 3 000 zpráv měsíčně a 100 denně; limity jsou společné pro celý účet. [Aktuální tarif](https://resend.com/pricing).
-2. Do WEDOSu přidejte přesně DKIM, SPF a případný MX pro Return-Path, které Resend zobrazí pro tyto subdomény. Hodnoty závisejí na doméně a regionu, proto je nekopírujte z obecného příkladu. Názvy zadávejte relativně: například `resend._domainkey.forms` nebo `send.forms`, pokud takové celé názvy Resend skutečně zobrazí. Poštovní MX na **hlavní doméně** a její SPF ponechte. Nepřidávejte druhý SPF záznam na stejný název. Potvrďte „aplikovat změny“.
+2. Do WEDOSu přidejte přesně DNS záznamy, které Resend zobrazí pro tyto subdomény. Pro tento účet k 6. 10. 2026 zobrazuje DKIM TXT a dva odesílací CNAME; tyto tři záznamy už byly pro každou doménu přidány (viz přehled níže). Hodnoty závisejí na doméně a regionu, proto je nekopírujte z obecného příkladu. Názvy zadávejte relativně: například `resend._domainkey.forms` nebo `send.forms`, pokud takové celé názvy Resend skutečně zobrazí. Poštovní MX na **hlavní doméně** a její SPF ponechte. Nepřidávejte druhý SPF záznam na stejný název. Potvrďte „aplikovat změny“.
 3. Počkejte, až obě subdomény v Resend ukážou **Verified**. V **API Keys → Create API Key** vytvořte pro každý projekt samostatný klíč s oprávněním **Sending access**, omezený na jeho odesílací subdoménu. [Omezení API klíčů](https://resend.com/changelog/new-api-key-permissions).
 4. Ve Vercelu otevřete **Settings → Environment Variables**, zvolte prostředí **Production** a přidejte hodnoty podle následující tabulky. Heslo / API klíč uložte jako **Secret / Sensitive**, nikoli do souboru v repozitáři nebo do veřejné proměnné `NEXT_PUBLIC_*`.
 
@@ -82,6 +82,19 @@ Nastavení proměnných: [Power Pro](https://vercel.com/tonbo-coders-projects/po
 Adresy `web@forms.…` jsou ověřené identity odesílatele; nemusíte pro ně zřizovat schránky. Odpovědi půjdou na adresu návštěvníka z formuláře díky `Reply-To`. Po uložení otevřete **Deployments → poslední produkční nasazení → Redeploy**. Změna proměnných se do již běžícího nasazení sama nepropíše. Pro testy na preview přidávejte SMTP údaje i do Preview jen tehdy, pokud má také skutečně odesílat e-maily.
 
 Jestli už máte jiného SMTP poskytovatele, stejný backend funguje s jeho údaji; použijte jím předepsaný host, port, zabezpečení a ověřeného odesílatele.
+
+
+### Odesílací DNS přidané 6. 10. 2026
+
+V obou zónách (`power-pro.cz` a `powerdrive.cz`) jsou tyto nové záznamy, TTL 300:
+
+| Název ve WEDOSu | Typ | Data |
+| --- | --- | --- |
+| `resend._domainkey.forms` | TXT | Veřejný DKIM klíč konkrétní subdomény z Resend; každý web má odlišný klíč |
+| `rsend.forms` | CNAME | `rsend-euw1.forge.rmta.net` |
+| `send.forms` | CNAME | `send.forge.rmta.net` |
+
+Přehled záznamů je v `migration/resend-dns.json`; obsahuje jen veřejné DNS hodnoty, žádný API klíč. Všechny původní záznamy obou zón byly porovnány před úpravou a po ní a zůstaly stejné. Kořenové MX, Microsoft SPF, autodiscover, DKIM, wildcard a webové záznamy se při zapojení Resendu neměnily. Receiving je na obou odesílacích subdoménách vypnuté. SMTP přístupové údaje jsou určeny jen pro Production; Preview je nemá.
 
 ### Varianta s existujícím Microsoft 365
 
