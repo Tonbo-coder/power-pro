@@ -13,6 +13,12 @@ Všechny čtyři domény jsou přidané a vlastnictví je ve Vercelu ověřené.
 
 Obě odesílací subdomény v regionu Ireland (eu-west-1) jsou v Resendu ověřené. V Production obou projektů jsou nastaveny SMTP server, port, zabezpečení, uživatel a adresy odesílatele a příjemce. Každý projekt má vlastní API klíč s oprávněním Sending access, omezený na svou odesílací subdoménu, uložený jako tajné SMTP_PASSWORD. Klíče jsou pouze v serverovém nastavení Vercelu. Odesílání se aktivuje při produkčním nasazení s těmito proměnnými; po každé změně konfigurace ověřte doručení podle kontrolního postupu níže.
 
+### Výsledek produkčních testů 6. 10. 2026
+
+Powerdrive: test přes ostrý formulář skončil stránkou s poděkováním a Resend potvrdil doručení na `info@powerdrive.cz`. Stav Delivered znamená přijetí serverem příjemce; konkrétní složku schránky a přečtení zprávy tento test neověřuje.
+
+Power Pro: `/api/contact` zprávu přijal a odeslal přes Resend, ale Microsoft 365 ji následně odmítl chybou `550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient info@power-pro.cz not found by SMTP address lookup`. Formulář tedy zatím nemá funkčního příjemce. V Production je aktuálně `CONTACT_TO=info@power-pro.cz`; pro dokončení je nutné nastavit potvrzenou existující schránku a znovu nasadit projekt, nebo nechat správce Microsoft 365 vytvořit příslušnou schránku či alias. Kořenové MX kvůli této chybě neměňte. Resend neplatného příjemce zařadil do suppression listu; odblokování a opakování testu na stejnou adresu má smysl až po opravě schránky. Přijetí zprávy odesílacím SMTP serverem samo o sobě neznamená konečné doručení.
+
 ## DNS změny ve WEDOSu
 
 V zákaznickém centru otevřete DNS → příslušná doména → záznamy domény. Před úpravou si uložte export nebo snímek tabulky. Pro hlavní doménu nechte pole **název prázdné**; znak `@` používaný Vercel dokumentací do tohoto pole nezapisujte. Pro subdoménu zadejte pouze `www`. [Manuál WEDOS DNS](https://kb.vedos.cz/dns-manual/).
