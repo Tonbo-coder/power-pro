@@ -11,7 +11,7 @@ Stav aktualizován 6. 10. 2026. DNS hodnoty níže pocházejí z nastavení konk
 
 Všechny čtyři domény jsou přidané a vlastnictví je ve Vercelu ověřené. Oba projekty mají funkční produkční nasazení a Git integraci s větví `main`. Webové DNS už směřuje na Vercel. Obě hlavní domény odpovídají přes HTTPS a www se přesměrovává na hlavní doménu. Certifikát Powerdrive byl doplněn 6. 10. 2026. [Dokumentace Vercelu](https://vercel.com/docs/domains/working-with-ssl).
 
-Pro oba formuláře byly v Resendu vytvořeny odesílací subdomény v regionu Ireland (eu-west-1), jejich DNS záznamy byly přidány ve WEDOSu a ověřeny přímo na autoritativním DNS. V Production obou projektů jsou nastaveny SMTP server, port, zabezpečení, uživatel a adresy odesílatele a příjemce. Zbývá dokončení ověření v Resendu, vložení omezených API klíčů jako SMTP_PASSWORD a nové nasazení s testem doručení. Do té doby formuláře neodesílají.
+Obě odesílací subdomény v regionu Ireland (eu-west-1) jsou v Resendu ověřené. V Production obou projektů jsou nastaveny SMTP server, port, zabezpečení, uživatel a adresy odesílatele a příjemce. Každý projekt má vlastní API klíč s oprávněním Sending access, omezený na svou odesílací subdoménu, uložený jako tajné SMTP_PASSWORD. Klíče jsou pouze v serverovém nastavení Vercelu. Odesílání se aktivuje při produkčním nasazení s těmito proměnnými; po každé změně konfigurace ověřte doručení podle kontrolního postupu níže.
 
 ## DNS změny ve WEDOSu
 
